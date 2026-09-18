@@ -68,24 +68,11 @@ dist/
 # =========================
 # Simulation generated files
 # =========================
-outputs/
-results/
-runs/
-checkpoints/
-
-# Generated datasets
-data/generated/
-data/output/
-data/outputs/
-
-# =========================
-# Model weights
-# =========================
-*.pt
-*.pth
-*.ckpt
-*.safetensors
-*.onnx
+# Generated datasets and diagnosis outputs (see pipeline_core.py:
+# data_root="data", graph_root="graph"). Regenerate with generate_data.py /
+# run_standard_pipeline.py; keep only code and configs in git.
+/data/
+/graph/
 
 # Application runtime state
 app_state/
