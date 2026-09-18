@@ -1,0 +1,91 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# =========================
+# Python tools / caches
+# =========================
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# macOS
+# =========================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# =========================
+# Logs / temporary files
+# =========================
+*.log
+*.tmp
+*.temp
+tmp/
+temp/
+
+# =========================
+# Secrets / local config
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# Python build artifacts
+# =========================
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# =========================
+# Simulation generated files
+# =========================
+outputs/
+results/
+runs/
+checkpoints/
+
+# Generated datasets
+data/generated/
+data/output/
+data/outputs/
+
+# =========================
+# Model weights
+# =========================
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+
+# Application runtime state
+app_state/

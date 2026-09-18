@@ -1,0 +1,485 @@
+{
+  "dataset_dir": "/Users/hyi/aircraft-assembly-simulation/data/assembly_verified_20260910",
+  "graph_dir": "/Users/hyi/aircraft-assembly-simulation/graph/assembly_verified_20260910",
+  "metrics": {
+    "n_test": 100,
+    "n_injected": 70,
+    "n_healthy": 30,
+    "n_quality_defects": 70,
+    "n_detected_injected": 70,
+    "n_localized_candidates": 70,
+    "quality_detection_rate_on_injected": 1.0,
+    "healthy_quality_false_positive_rate": 0.0,
+    "diagnosis_coverage_on_detected": 1.0,
+    "root_top1_on_detected": 1.0,
+    "root_top3_on_detected": 1.0,
+    "root_top5_on_detected": 1.0,
+    "interpretation": "Quality exceeds a preset final tolerance; injected faults may be compensated. Root metrics condition on injected + final quality defect."
+  },
+  "example": {
+    "trace_method": "structural_innovation",
+    "observed_node": "s4_A1",
+    "predicted_root": "s2_A1",
+    "ranked_roots": [
+      "s2_A1",
+      "s1_A1",
+      "s1_C1",
+      "s3_C2",
+      "s2_B3",
+      "s4_A1",
+      "s3_B3",
+      "s2_B1",
+      "s3_A2",
+      "s3_A3",
+      "s1_C2",
+      "s2_A3",
+      "s2_B2",
+      "s1_B1",
+      "s1_A2",
+      "s2_C2",
+      "s3_C3",
+      "s1_A3",
+      "s1_B2",
+      "s2_A2",
+      "s2_C3",
+      "s1_C3",
+      "s1_B3",
+      "s2_C1",
+      "s3_B1",
+      "s3_B2",
+      "s3_C1",
+      "s3_A1"
+    ],
+    "scores": {
+      "s2_A1": 45.67734704817555,
+      "s1_A1": 3.143472360075048,
+      "s1_C1": 2.6054109642584478,
+      "s3_C2": 2.51683978596058,
+      "s2_B3": 2.4206138936065615,
+      "s4_A1": 2.415601536276155,
+      "s3_B3": 2.2759176023697165,
+      "s2_B1": 2.1507725723117606,
+      "s3_A2": 1.7536966208707523,
+      "s3_A3": 1.6942879037154057,
+      "s1_C2": 1.4977446352480082,
+      "s2_A3": 1.4926424738902038,
+      "s2_B2": 1.4660372455117003,
+      "s1_B1": 1.3031997133199449,
+      "s1_A2": 1.2911808090950991,
+      "s2_C2": 1.2861899260608196,
+      "s3_C3": 1.219863500710622,
+      "s1_A3": 1.198973415720638,
+      "s1_B2": 1.1779014490902948,
+      "s2_A2": 1.0864016743110083,
+      "s2_C3": 0.998647991162814,
+      "s1_C3": 0.9359113526596724,
+      "s1_B3": 0.9067076770695219,
+      "s2_C1": 0.9022567571058321,
+      "s3_B1": 0.826677409099641,
+      "s3_B2": 0.8077657083914608,
+      "s3_C1": 0.7576683199810454,
+      "s3_A1": 0.7014740621935956
+    },
+    "ranking": [
+      {
+        "node": "s2_A1",
+        "stage": 2,
+        "stage_name": "前对合",
+        "point": "A1",
+        "score": 45.67734704817555,
+        "residual_mm": 2.0254453705432485,
+        "residual_xyz": [
+          -1.8345336341877783,
+          -0.4654428345126931,
+          -0.7213031691942366
+        ]
+      },
+      {
+        "node": "s1_A1",
+        "stage": 1,
+        "stage_name": "首次调姿",
+        "point": "A1",
+        "score": 3.143472360075048,
+        "residual_mm": 0.1427897166243224,
+        "residual_xyz": [
+          0.10060266954201325,
+          -0.10115539614976399,
+          -0.005965893433433667
+        ]
+      },
+      {
+        "node": "s1_C1",
+        "stage": 1,
+        "stage_name": "首次调姿",
+        "point": "C1",
+        "score": 2.6054109642584478,
+        "residual_mm": 0.12918845018496475,
+        "residual_xyz": [
+          -0.0923673186899805,
+          0.07817326119556611,
+          -0.04524240636025557
+        ]
+      },
+      {
+        "node": "s3_C2",
+        "stage": 3,
+        "stage_name": "后对合",
+        "point": "C2",
+        "score": 2.51683978596058,
+        "residual_mm": 0.11615904927618374,
+        "residual_xyz": [
+          0.06453814762971888,
+          0.04668481962590221,
+          -0.0845475005293975
+        ]
+      },
+      {
+        "node": "s2_B3",
+        "stage": 2,
+        "stage_name": "前对合",
+        "point": "B3",
+        "score": 2.4206138936065615,
+        "residual_mm": 0.10505153629909644,
+        "residual_xyz": [
+          0.03935843012182261,
+          -0.09502826873623604,
+          0.02136275726912812
+        ]
+      },
+      {
+        "node": "s4_A1",
+        "stage": 4,
+        "stage_name": "再调姿",
+        "point": "A1",
+        "score": 2.415601536276155,
+        "residual_mm": 0.11483706905827605,
+        "residual_xyz": [
+          -0.10686951037036607,
+          0.030678536479626928,
+          -0.028727818966320484
+        ]
+      },
+      {
+        "node": "s3_B3",
+        "stage": 3,
+        "stage_name": "后对合",
+        "point": "B3",
+        "score": 2.2759176023697165,
+        "residual_mm": 0.10120055397448416,
+        "residual_xyz": [
+          -0.048842002149669383,
+          0.023194650146294293,
+          -0.08554542159195419
+        ]
+      },
+      {
+        "node": "s2_B1",
+        "stage": 2,
+        "stage_name": "前对合",
+        "point": "B1",
+        "score": 2.1507725723117606,
+        "residual_mm": 0.08984197322306586,
+        "residual_xyz": [
+          -0.02242310704021122,
+          -0.034217527807633985,
+          -0.07998715655660668
+        ]
+      },
+      {
+        "node": "s3_A2",
+        "stage": 3,
+        "stage_name": "后对合",
+        "point": "A2",
+        "score": 1.7536966208707523,
+        "residual_mm": 0.08878176550918386,
+        "residual_xyz": [
+          -0.01907231000802767,
+          -0.05271568002392257,
+          -0.0688440698789722
+        ]
+      },
+      {
+        "node": "s3_A3",
+        "stage": 3,
+        "stage_name": "后对合",
+        "point": "A3",
+        "score": 1.6942879037154057,
+        "residual_mm": 0.07457660831048,
+        "residual_xyz": [
+          0.010818235003114296,
+          0.06153085790180768,
+          -0.04072578819838481
+        ]
+      },
+      {
+        "node": "s1_C2",
+        "stage": 1,
+        "stage_name": "首次调姿",
+        "point": "C2",
+        "score": 1.4977446352480082,
+        "residual_mm": 0.06315490952210107,
+        "residual_xyz": [
+          0.0354558905257818,
+          -0.03151053390852354,
+          0.04169542752590907
+        ]
+      },
+      {
+        "node": "s2_A3",
+        "stage": 2,
+        "stage_name": "前对合",
+        "point": "A3",
+        "score": 1.4926424738902038,
+        "residual_mm": 0.06778010362266239,
+        "residual_xyz": [
+          0.025964107587583385,
+          0.017120696972739324,
+          -0.06022366062808605
+        ]
+      },
+      {
+        "node": "s2_B2",
+        "stage": 2,
+        "stage_name": "前对合",
+        "point": "B2",
+        "score": 1.4660372455117003,
+        "residual_mm": 0.05699337427259463,
+        "residual_xyz": [
+          -0.027889852043458063,
+          -0.04888764770907983,
+          -0.00896653586637396
+        ]
+      },
+      {
+        "node": "s1_B1",
+        "stage": 1,
+        "stage_name": "首次调姿",
+        "point": "B1",
+        "score": 1.3031997133199449,
+        "residual_mm": 0.052980537757517335,
+        "residual_xyz": [
+          0.034697360962908874,
+          0.008985308549519289,
+          0.03901659587349034
+        ]
+      },
+      {
+        "node": "s1_A2",
+        "stage": 1,
+        "stage_name": "首次调姿",
+        "point": "A2",
+        "score": 1.2911808090950991,
+        "residual_mm": 0.055233396436703136,
+        "residual_xyz": [
+          0.015572595394701239,
+          -0.006788301482405501,
+          -0.05255607783682979
+        ]
+      },
+      {
+        "node": "s2_C2",
+        "stage": 2,
+        "stage_name": "前对合",
+        "point": "C2",
+        "score": 1.2861899260608196,
+        "residual_mm": 0.05845246558383539,
+        "residual_xyz": [
+          -0.003882545151782324,
+          -0.03374612458071624,
+          -0.047569061917979966
+        ]
+      },
+      {
+        "node": "s3_C3",
+        "stage": 3,
+        "stage_name": "后对合",
+        "point": "C3",
+        "score": 1.219863500710622,
+        "residual_mm": 0.06370609606259874,
+        "residual_xyz": [
+          0.02051306572593603,
+          -0.005982402566381495,
+          -0.060015761842987875
+        ]
+      },
+      {
+        "node": "s1_A3",
+        "stage": 1,
+        "stage_name": "首次调姿",
+        "point": "A3",
+        "score": 1.198973415720638,
+        "residual_mm": 0.05634186540148911,
+        "residual_xyz": [
+          -0.041378758645919334,
+          0.03501263785875608,
+          -0.015372680963770528
+        ]
+      },
+      {
+        "node": "s1_B2",
+        "stage": 1,
+        "stage_name": "首次调姿",
+        "point": "B2",
+        "score": 1.1779014490902948,
+        "residual_mm": 0.056508205122008326,
+        "residual_xyz": [
+          -0.055836729898118165,
+          0.004151765638575,
+          0.007628871638578818
+        ]
+      },
+      {
+        "node": "s2_A2",
+        "stage": 2,
+        "stage_name": "前对合",
+        "point": "A2",
+        "score": 1.0864016743110083,
+        "residual_mm": 0.050977606408695614,
+        "residual_xyz": [
+          0.006670681957700708,
+          0.03780865668193911,
+          0.033536902619150016
+        ]
+      },
+      {
+        "node": "s2_C3",
+        "stage": 2,
+        "stage_name": "前对合",
+        "point": "C3",
+        "score": 0.998647991162814,
+        "residual_mm": 0.05609126562639797,
+        "residual_xyz": [
+          -0.04104679760177987,
+          0.011542281865267512,
+          0.03644401481110951
+        ]
+      },
+      {
+        "node": "s1_C3",
+        "stage": 1,
+        "stage_name": "首次调姿",
+        "point": "C3",
+        "score": 0.9359113526596724,
+        "residual_mm": 0.04285577296083922,
+        "residual_xyz": [
+          -0.03405805409988716,
+          -0.025980859353349928,
+          -0.0012888654939935407
+        ]
+      },
+      {
+        "node": "s1_B3",
+        "stage": 1,
+        "stage_name": "首次调姿",
+        "point": "B3",
+        "score": 0.9067076770695219,
+        "residual_mm": 0.044815887931629224,
+        "residual_xyz": [
+          0.008607581421287591,
+          -0.04282029322081371,
+          0.010039713225973655
+        ]
+      },
+      {
+        "node": "s2_C1",
+        "stage": 2,
+        "stage_name": "前对合",
+        "point": "C1",
+        "score": 0.9022567571058321,
+        "residual_mm": 0.03991244501916619,
+        "residual_xyz": [
+          -0.008048731187727753,
+          -0.033591719608800474,
+          -0.019995438664840347
+        ]
+      },
+      {
+        "node": "s3_B1",
+        "stage": 3,
+        "stage_name": "后对合",
+        "point": "B1",
+        "score": 0.826677409099641,
+        "residual_mm": 0.03442537236235551,
+        "residual_xyz": [
+          0.019219602750240483,
+          0.02230192775141404,
+          0.01784200523989631
+        ]
+      },
+      {
+        "node": "s3_B2",
+        "stage": 3,
+        "stage_name": "后对合",
+        "point": "B2",
+        "score": 0.8077657083914608,
+        "residual_mm": 0.044308875538759694,
+        "residual_xyz": [
+          0.03438479077725276,
+          -0.027544162951173234,
+          -0.0047203497786781155
+        ]
+      },
+      {
+        "node": "s3_C1",
+        "stage": 3,
+        "stage_name": "后对合",
+        "point": "C1",
+        "score": 0.7576683199810454,
+        "residual_mm": 0.029449235796427296,
+        "residual_xyz": [
+          -0.02296322080826485,
+          -0.016427277250372185,
+          0.008372128835836892
+        ]
+      },
+      {
+        "node": "s3_A1",
+        "stage": 3,
+        "stage_name": "后对合",
+        "point": "A1",
+        "score": 0.7014740621935956,
+        "residual_mm": 0.034303989225572595,
+        "residual_xyz": [
+          -0.00680449656294968,
+          0.0032484680553963585,
+          0.03346505578369885
+        ]
+      }
+    ],
+    "quality_defect": true,
+    "entry_quality_defect": true,
+    "defect_points": [
+      "A1"
+    ],
+    "final_errors_mm": {
+      "A1": 1.6611082394022942,
+      "A2": 0.32135827239437775,
+      "A3": 0.33187900672299137,
+      "B1": 0.21451581151333743,
+      "B2": 0.22941344412494724,
+      "B3": 0.21861377508754246,
+      "C1": 0.27370223121751336,
+      "C2": 0.22570562196709712,
+      "C3": 0.2087071038572394
+    },
+    "maximum_final_error_mm": 1.6611082394022942,
+    "entry_error_mm": 1.6611082394022942,
+    "quality_limit_mm": 1.0,
+    "score_threshold": 4.5509971209717355,
+    "trace_status": "localized_candidate",
+    "candidate_policy": "ancestors of terminal entry, including the entry; stages 1..4",
+    "path": [
+      "s2_A1",
+      "s3_A1",
+      "s4_A1"
+    ],
+    "notes": "Candidate ranking under the specified feedback model; not proof of a unique physical cause.",
+    "sample_id": "test_00000"
+  },
+  "files": {
+    "observations": "/Users/hyi/aircraft-assembly-simulation/data/assembly_verified_20260910/observations.csv",
+    "graph": "/Users/hyi/aircraft-assembly-simulation/graph/assembly_verified_20260910/causal_graph.svg",
+    "traces": "/Users/hyi/aircraft-assembly-simulation/graph/assembly_verified_20260910/trace_results.json",
+    "results": "/Users/hyi/aircraft-assembly-simulation/graph/assembly_verified_20260910/results.csv"
+  }
+}

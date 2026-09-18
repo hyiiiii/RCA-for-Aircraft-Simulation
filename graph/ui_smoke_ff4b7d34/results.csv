@@ -1,0 +1,5 @@
+﻿sample_id,quality_defect,observed_node,maximum_final_error_mm,predicted_root,trace_status
+test_00000,True,s4_A1,1.812583127110131,s2_A1,localized_candidate
+test_00001,True,s4_A1,1.8484326302639702,s2_A1,localized_candidate
+test_00002,True,s4_A1,1.3565773686308489,s2_A1,localized_candidate
+test_00003,True,s4_A1,1.7269149586311934,s2_A1,localized_candidate

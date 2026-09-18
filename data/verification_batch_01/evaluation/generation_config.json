@@ -1,0 +1,16 @@
+{
+  "dataset_name": "verification_batch_01",
+  "n_train": 30,
+  "n_calibration": 40,
+  "n_test": 30,
+  "seed": 20260910,
+  "process_sigma": 0.02,
+  "measurement_sigma": 0.03,
+  "quality_limit": 1.0,
+  "fault_fraction": 0.7,
+  "fault_magnitude": 2.0,
+  "fault_stage": null,
+  "fault_point": null,
+  "data_root": "/Users/hyi/aircraft-assembly-simulation/data",
+  "graph_root": "/Users/hyi/aircraft-assembly-simulation/graph"
+}

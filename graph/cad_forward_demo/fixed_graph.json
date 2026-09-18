@@ -1,0 +1,943 @@
+{
+  "nodes": [
+    {
+      "id": "s0_A1",
+      "kind": "coordinate",
+      "stage": 0,
+      "point": "A1",
+      "part": "A",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "A1 / 阶段 0"
+    },
+    {
+      "id": "s0_A2",
+      "kind": "coordinate",
+      "stage": 0,
+      "point": "A2",
+      "part": "A",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "A2 / 阶段 0"
+    },
+    {
+      "id": "s0_A3",
+      "kind": "coordinate",
+      "stage": 0,
+      "point": "A3",
+      "part": "A",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "A3 / 阶段 0"
+    },
+    {
+      "id": "s0_B1",
+      "kind": "coordinate",
+      "stage": 0,
+      "point": "B1",
+      "part": "B",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "B1 / 阶段 0"
+    },
+    {
+      "id": "s0_B2",
+      "kind": "coordinate",
+      "stage": 0,
+      "point": "B2",
+      "part": "B",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "B2 / 阶段 0"
+    },
+    {
+      "id": "s0_B3",
+      "kind": "coordinate",
+      "stage": 0,
+      "point": "B3",
+      "part": "B",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "B3 / 阶段 0"
+    },
+    {
+      "id": "s0_C1",
+      "kind": "coordinate",
+      "stage": 0,
+      "point": "C1",
+      "part": "C",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "C1 / 阶段 0"
+    },
+    {
+      "id": "s0_C2",
+      "kind": "coordinate",
+      "stage": 0,
+      "point": "C2",
+      "part": "C",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "C2 / 阶段 0"
+    },
+    {
+      "id": "s0_C3",
+      "kind": "coordinate",
+      "stage": 0,
+      "point": "C3",
+      "part": "C",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "C3 / 阶段 0"
+    },
+    {
+      "id": "s1_A1",
+      "kind": "coordinate",
+      "stage": 1,
+      "point": "A1",
+      "part": "A",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "A1 / 阶段 1"
+    },
+    {
+      "id": "s1_A2",
+      "kind": "coordinate",
+      "stage": 1,
+      "point": "A2",
+      "part": "A",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "A2 / 阶段 1"
+    },
+    {
+      "id": "s1_A3",
+      "kind": "coordinate",
+      "stage": 1,
+      "point": "A3",
+      "part": "A",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "A3 / 阶段 1"
+    },
+    {
+      "id": "s1_B1",
+      "kind": "coordinate",
+      "stage": 1,
+      "point": "B1",
+      "part": "B",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "B1 / 阶段 1"
+    },
+    {
+      "id": "s1_B2",
+      "kind": "coordinate",
+      "stage": 1,
+      "point": "B2",
+      "part": "B",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "B2 / 阶段 1"
+    },
+    {
+      "id": "s1_B3",
+      "kind": "coordinate",
+      "stage": 1,
+      "point": "B3",
+      "part": "B",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "B3 / 阶段 1"
+    },
+    {
+      "id": "s1_C1",
+      "kind": "coordinate",
+      "stage": 1,
+      "point": "C1",
+      "part": "C",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "C1 / 阶段 1"
+    },
+    {
+      "id": "s1_C2",
+      "kind": "coordinate",
+      "stage": 1,
+      "point": "C2",
+      "part": "C",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "C2 / 阶段 1"
+    },
+    {
+      "id": "s1_C3",
+      "kind": "coordinate",
+      "stage": 1,
+      "point": "C3",
+      "part": "C",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "C3 / 阶段 1"
+    },
+    {
+      "id": "s2_A1",
+      "kind": "coordinate",
+      "stage": 2,
+      "point": "A1",
+      "part": "A",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "A1 / 阶段 2"
+    },
+    {
+      "id": "s2_A2",
+      "kind": "coordinate",
+      "stage": 2,
+      "point": "A2",
+      "part": "A",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "A2 / 阶段 2"
+    },
+    {
+      "id": "s2_A3",
+      "kind": "coordinate",
+      "stage": 2,
+      "point": "A3",
+      "part": "A",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "A3 / 阶段 2"
+    },
+    {
+      "id": "s2_B1",
+      "kind": "coordinate",
+      "stage": 2,
+      "point": "B1",
+      "part": "B",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "B1 / 阶段 2"
+    },
+    {
+      "id": "s2_B2",
+      "kind": "coordinate",
+      "stage": 2,
+      "point": "B2",
+      "part": "B",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "B2 / 阶段 2"
+    },
+    {
+      "id": "s2_B3",
+      "kind": "coordinate",
+      "stage": 2,
+      "point": "B3",
+      "part": "B",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "B3 / 阶段 2"
+    },
+    {
+      "id": "s2_C1",
+      "kind": "coordinate",
+      "stage": 2,
+      "point": "C1",
+      "part": "C",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "C1 / 阶段 2"
+    },
+    {
+      "id": "s2_C2",
+      "kind": "coordinate",
+      "stage": 2,
+      "point": "C2",
+      "part": "C",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "C2 / 阶段 2"
+    },
+    {
+      "id": "s2_C3",
+      "kind": "coordinate",
+      "stage": 2,
+      "point": "C3",
+      "part": "C",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "C3 / 阶段 2"
+    },
+    {
+      "id": "s3_A1",
+      "kind": "coordinate",
+      "stage": 3,
+      "point": "A1",
+      "part": "A",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "A1 / 阶段 3"
+    },
+    {
+      "id": "s3_A2",
+      "kind": "coordinate",
+      "stage": 3,
+      "point": "A2",
+      "part": "A",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "A2 / 阶段 3"
+    },
+    {
+      "id": "s3_A3",
+      "kind": "coordinate",
+      "stage": 3,
+      "point": "A3",
+      "part": "A",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "A3 / 阶段 3"
+    },
+    {
+      "id": "s3_B1",
+      "kind": "coordinate",
+      "stage": 3,
+      "point": "B1",
+      "part": "B",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "B1 / 阶段 3"
+    },
+    {
+      "id": "s3_B2",
+      "kind": "coordinate",
+      "stage": 3,
+      "point": "B2",
+      "part": "B",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "B2 / 阶段 3"
+    },
+    {
+      "id": "s3_B3",
+      "kind": "coordinate",
+      "stage": 3,
+      "point": "B3",
+      "part": "B",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "B3 / 阶段 3"
+    },
+    {
+      "id": "s3_C1",
+      "kind": "coordinate",
+      "stage": 3,
+      "point": "C1",
+      "part": "C",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "C1 / 阶段 3"
+    },
+    {
+      "id": "s3_C2",
+      "kind": "coordinate",
+      "stage": 3,
+      "point": "C2",
+      "part": "C",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "C2 / 阶段 3"
+    },
+    {
+      "id": "s3_C3",
+      "kind": "coordinate",
+      "stage": 3,
+      "point": "C3",
+      "part": "C",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "C3 / 阶段 3"
+    },
+    {
+      "id": "s4_A1",
+      "kind": "coordinate",
+      "stage": 4,
+      "point": "A1",
+      "part": "A",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "A1 / 阶段 4"
+    },
+    {
+      "id": "s4_A2",
+      "kind": "coordinate",
+      "stage": 4,
+      "point": "A2",
+      "part": "A",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "A2 / 阶段 4"
+    },
+    {
+      "id": "s4_A3",
+      "kind": "coordinate",
+      "stage": 4,
+      "point": "A3",
+      "part": "A",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "A3 / 阶段 4"
+    },
+    {
+      "id": "s4_B1",
+      "kind": "coordinate",
+      "stage": 4,
+      "point": "B1",
+      "part": "B",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "B1 / 阶段 4"
+    },
+    {
+      "id": "s4_B2",
+      "kind": "coordinate",
+      "stage": 4,
+      "point": "B2",
+      "part": "B",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "B2 / 阶段 4"
+    },
+    {
+      "id": "s4_B3",
+      "kind": "coordinate",
+      "stage": 4,
+      "point": "B3",
+      "part": "B",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "B3 / 阶段 4"
+    },
+    {
+      "id": "s4_C1",
+      "kind": "coordinate",
+      "stage": 4,
+      "point": "C1",
+      "part": "C",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "C1 / 阶段 4"
+    },
+    {
+      "id": "s4_C2",
+      "kind": "coordinate",
+      "stage": 4,
+      "point": "C2",
+      "part": "C",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "C2 / 阶段 4"
+    },
+    {
+      "id": "s4_C3",
+      "kind": "coordinate",
+      "stage": 4,
+      "point": "C3",
+      "part": "C",
+      "dimension": 3,
+      "value_type": "physical_position_mm",
+      "label": "C3 / 阶段 4"
+    },
+    {
+      "id": "h1_A",
+      "kind": "action",
+      "stage": 1,
+      "label": "首次调姿：移动 A",
+      "dimension": 6,
+      "value_type": "SE(3)",
+      "input_parts": "A",
+      "moved_parts": "A"
+    },
+    {
+      "id": "h1_B",
+      "kind": "action",
+      "stage": 1,
+      "label": "首次调姿：移动 B",
+      "dimension": 6,
+      "value_type": "SE(3)",
+      "input_parts": "B",
+      "moved_parts": "B"
+    },
+    {
+      "id": "h1_C",
+      "kind": "action",
+      "stage": 1,
+      "label": "首次调姿：移动 C",
+      "dimension": 6,
+      "value_type": "SE(3)",
+      "input_parts": "C",
+      "moved_parts": "C"
+    },
+    {
+      "id": "h2_front",
+      "kind": "action",
+      "stage": 2,
+      "label": "前对合：移动 A",
+      "dimension": 6,
+      "value_type": "SE(3)",
+      "input_parts": "A",
+      "moved_parts": "A"
+    },
+    {
+      "id": "h3_rear",
+      "kind": "action",
+      "stage": 3,
+      "label": "后对合：移动 C",
+      "dimension": 6,
+      "value_type": "SE(3)",
+      "input_parts": "C",
+      "moved_parts": "C"
+    },
+    {
+      "id": "h4_final",
+      "kind": "action",
+      "stage": 4,
+      "label": "再调姿：移动整机",
+      "dimension": 6,
+      "value_type": "SE(3)",
+      "input_parts": "ABC",
+      "moved_parts": "ABC"
+    }
+  ],
+  "edges": [
+    {
+      "source": "s0_A1",
+      "target": "h1_A",
+      "kind": "localization"
+    },
+    {
+      "source": "h1_A",
+      "target": "s1_A1",
+      "kind": "motion"
+    },
+    {
+      "source": "s0_A2",
+      "target": "h1_A",
+      "kind": "localization"
+    },
+    {
+      "source": "h1_A",
+      "target": "s1_A2",
+      "kind": "motion"
+    },
+    {
+      "source": "s0_A3",
+      "target": "h1_A",
+      "kind": "localization"
+    },
+    {
+      "source": "h1_A",
+      "target": "s1_A3",
+      "kind": "motion"
+    },
+    {
+      "source": "s0_B1",
+      "target": "h1_B",
+      "kind": "localization"
+    },
+    {
+      "source": "h1_B",
+      "target": "s1_B1",
+      "kind": "motion"
+    },
+    {
+      "source": "s0_B2",
+      "target": "h1_B",
+      "kind": "localization"
+    },
+    {
+      "source": "h1_B",
+      "target": "s1_B2",
+      "kind": "motion"
+    },
+    {
+      "source": "s0_B3",
+      "target": "h1_B",
+      "kind": "localization"
+    },
+    {
+      "source": "h1_B",
+      "target": "s1_B3",
+      "kind": "motion"
+    },
+    {
+      "source": "s0_C1",
+      "target": "h1_C",
+      "kind": "localization"
+    },
+    {
+      "source": "h1_C",
+      "target": "s1_C1",
+      "kind": "motion"
+    },
+    {
+      "source": "s0_C2",
+      "target": "h1_C",
+      "kind": "localization"
+    },
+    {
+      "source": "h1_C",
+      "target": "s1_C2",
+      "kind": "motion"
+    },
+    {
+      "source": "s0_C3",
+      "target": "h1_C",
+      "kind": "localization"
+    },
+    {
+      "source": "h1_C",
+      "target": "s1_C3",
+      "kind": "motion"
+    },
+    {
+      "source": "s1_A1",
+      "target": "h2_front",
+      "kind": "localization"
+    },
+    {
+      "source": "h2_front",
+      "target": "s2_A1",
+      "kind": "motion"
+    },
+    {
+      "source": "s1_A2",
+      "target": "h2_front",
+      "kind": "localization"
+    },
+    {
+      "source": "h2_front",
+      "target": "s2_A2",
+      "kind": "motion"
+    },
+    {
+      "source": "s1_A3",
+      "target": "h2_front",
+      "kind": "localization"
+    },
+    {
+      "source": "h2_front",
+      "target": "s2_A3",
+      "kind": "motion"
+    },
+    {
+      "source": "s2_C1",
+      "target": "h3_rear",
+      "kind": "localization"
+    },
+    {
+      "source": "h3_rear",
+      "target": "s3_C1",
+      "kind": "motion"
+    },
+    {
+      "source": "s2_C2",
+      "target": "h3_rear",
+      "kind": "localization"
+    },
+    {
+      "source": "h3_rear",
+      "target": "s3_C2",
+      "kind": "motion"
+    },
+    {
+      "source": "s2_C3",
+      "target": "h3_rear",
+      "kind": "localization"
+    },
+    {
+      "source": "h3_rear",
+      "target": "s3_C3",
+      "kind": "motion"
+    },
+    {
+      "source": "s3_A1",
+      "target": "h4_final",
+      "kind": "localization"
+    },
+    {
+      "source": "h4_final",
+      "target": "s4_A1",
+      "kind": "motion"
+    },
+    {
+      "source": "s3_A2",
+      "target": "h4_final",
+      "kind": "localization"
+    },
+    {
+      "source": "h4_final",
+      "target": "s4_A2",
+      "kind": "motion"
+    },
+    {
+      "source": "s3_A3",
+      "target": "h4_final",
+      "kind": "localization"
+    },
+    {
+      "source": "h4_final",
+      "target": "s4_A3",
+      "kind": "motion"
+    },
+    {
+      "source": "s3_B1",
+      "target": "h4_final",
+      "kind": "localization"
+    },
+    {
+      "source": "h4_final",
+      "target": "s4_B1",
+      "kind": "motion"
+    },
+    {
+      "source": "s3_B2",
+      "target": "h4_final",
+      "kind": "localization"
+    },
+    {
+      "source": "h4_final",
+      "target": "s4_B2",
+      "kind": "motion"
+    },
+    {
+      "source": "s3_B3",
+      "target": "h4_final",
+      "kind": "localization"
+    },
+    {
+      "source": "h4_final",
+      "target": "s4_B3",
+      "kind": "motion"
+    },
+    {
+      "source": "s3_C1",
+      "target": "h4_final",
+      "kind": "localization"
+    },
+    {
+      "source": "h4_final",
+      "target": "s4_C1",
+      "kind": "motion"
+    },
+    {
+      "source": "s3_C2",
+      "target": "h4_final",
+      "kind": "localization"
+    },
+    {
+      "source": "h4_final",
+      "target": "s4_C2",
+      "kind": "motion"
+    },
+    {
+      "source": "s3_C3",
+      "target": "h4_final",
+      "kind": "localization"
+    },
+    {
+      "source": "h4_final",
+      "target": "s4_C3",
+      "kind": "motion"
+    },
+    {
+      "source": "s0_A1",
+      "target": "s1_A1",
+      "kind": "state"
+    },
+    {
+      "source": "s0_A2",
+      "target": "s1_A2",
+      "kind": "state"
+    },
+    {
+      "source": "s0_A3",
+      "target": "s1_A3",
+      "kind": "state"
+    },
+    {
+      "source": "s0_B1",
+      "target": "s1_B1",
+      "kind": "state"
+    },
+    {
+      "source": "s0_B2",
+      "target": "s1_B2",
+      "kind": "state"
+    },
+    {
+      "source": "s0_B3",
+      "target": "s1_B3",
+      "kind": "state"
+    },
+    {
+      "source": "s0_C1",
+      "target": "s1_C1",
+      "kind": "state"
+    },
+    {
+      "source": "s0_C2",
+      "target": "s1_C2",
+      "kind": "state"
+    },
+    {
+      "source": "s0_C3",
+      "target": "s1_C3",
+      "kind": "state"
+    },
+    {
+      "source": "s1_A1",
+      "target": "s2_A1",
+      "kind": "state"
+    },
+    {
+      "source": "s1_A2",
+      "target": "s2_A2",
+      "kind": "state"
+    },
+    {
+      "source": "s1_A3",
+      "target": "s2_A3",
+      "kind": "state"
+    },
+    {
+      "source": "s1_B1",
+      "target": "s2_B1",
+      "kind": "state"
+    },
+    {
+      "source": "s1_B2",
+      "target": "s2_B2",
+      "kind": "state"
+    },
+    {
+      "source": "s1_B3",
+      "target": "s2_B3",
+      "kind": "state"
+    },
+    {
+      "source": "s1_C1",
+      "target": "s2_C1",
+      "kind": "state"
+    },
+    {
+      "source": "s1_C2",
+      "target": "s2_C2",
+      "kind": "state"
+    },
+    {
+      "source": "s1_C3",
+      "target": "s2_C3",
+      "kind": "state"
+    },
+    {
+      "source": "s2_A1",
+      "target": "s3_A1",
+      "kind": "state"
+    },
+    {
+      "source": "s2_A2",
+      "target": "s3_A2",
+      "kind": "state"
+    },
+    {
+      "source": "s2_A3",
+      "target": "s3_A3",
+      "kind": "state"
+    },
+    {
+      "source": "s2_B1",
+      "target": "s3_B1",
+      "kind": "state"
+    },
+    {
+      "source": "s2_B2",
+      "target": "s3_B2",
+      "kind": "state"
+    },
+    {
+      "source": "s2_B3",
+      "target": "s3_B3",
+      "kind": "state"
+    },
+    {
+      "source": "s2_C1",
+      "target": "s3_C1",
+      "kind": "state"
+    },
+    {
+      "source": "s2_C2",
+      "target": "s3_C2",
+      "kind": "state"
+    },
+    {
+      "source": "s2_C3",
+      "target": "s3_C3",
+      "kind": "state"
+    },
+    {
+      "source": "s3_A1",
+      "target": "s4_A1",
+      "kind": "state"
+    },
+    {
+      "source": "s3_A2",
+      "target": "s4_A2",
+      "kind": "state"
+    },
+    {
+      "source": "s3_A3",
+      "target": "s4_A3",
+      "kind": "state"
+    },
+    {
+      "source": "s3_B1",
+      "target": "s4_B1",
+      "kind": "state"
+    },
+    {
+      "source": "s3_B2",
+      "target": "s4_B2",
+      "kind": "state"
+    },
+    {
+      "source": "s3_B3",
+      "target": "s4_B3",
+      "kind": "state"
+    },
+    {
+      "source": "s3_C1",
+      "target": "s4_C1",
+      "kind": "state"
+    },
+    {
+      "source": "s3_C2",
+      "target": "s4_C2",
+      "kind": "state"
+    },
+    {
+      "source": "s3_C3",
+      "target": "s4_C3",
+      "kind": "state"
+    }
+  ],
+  "adjacency_convention": "adj[child,parent]",
+  "source": "specified_structural_equations",
+  "learned": false,
+  "omitted": "independent exogenous errors, measurement nodes, fixed design targets",
+  "coordinate_semantics": "true physical positions; diagnostics use noisy observations",
+  "action_semantics": "compute transform from preceding localization measurements and execute it",
+  "conditioning": "Public per-sample CAD geometry and stage-1 targets; shared feedback graph conditional on these exogenous settings."
+}

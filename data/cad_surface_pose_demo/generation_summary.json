@@ -1,0 +1,18 @@
+{
+  "task": "generation_only",
+  "dataset_dir": "/Users/hyi/aircraft-assembly-simulation/data/cad_surface_pose_demo",
+  "graph_dir": "/Users/hyi/aircraft-assembly-simulation/graph/cad_surface_pose_demo",
+  "splits": {
+    "train": 64,
+    "test": 16
+  },
+  "n_total": 80,
+  "example": {
+    "sample_id": "test_00000"
+  },
+  "files": {
+    "observations": "/Users/hyi/aircraft-assembly-simulation/data/cad_surface_pose_demo/observations.csv",
+    "labels": "/Users/hyi/aircraft-assembly-simulation/data/cad_surface_pose_demo/labels.json",
+    "graph": "/Users/hyi/aircraft-assembly-simulation/graph/cad_surface_pose_demo/causal_graph.svg"
+  }
+}

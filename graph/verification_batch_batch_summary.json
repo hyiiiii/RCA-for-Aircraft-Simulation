@@ -1,0 +1,69 @@
+{
+  "repeats": 2,
+  "aggregation": "unweighted mean and population std across seeds",
+  "metrics": {
+    "quality_detection_rate_on_injected": {
+      "mean": 0.8333333333333333,
+      "std": 0.07142857142857145,
+      "n_runs": 2
+    },
+    "healthy_quality_false_positive_rate": {
+      "mean": 0.0,
+      "std": 0.0,
+      "n_runs": 2
+    },
+    "root_top1_on_detected": {
+      "mean": 1.0,
+      "std": 0.0,
+      "n_runs": 2
+    },
+    "root_top3_on_detected": {
+      "mean": 1.0,
+      "std": 0.0,
+      "n_runs": 2
+    },
+    "diagnosis_coverage_on_detected": {
+      "mean": 1.0,
+      "std": 0.0,
+      "n_runs": 2
+    }
+  },
+  "runs": [
+    {
+      "dataset_dir": "/Users/hyi/aircraft-assembly-simulation/data/verification_batch_01",
+      "metrics": {
+        "n_test": 30,
+        "n_injected": 21,
+        "n_healthy": 9,
+        "n_quality_defects": 16,
+        "n_detected_injected": 16,
+        "n_localized_candidates": 16,
+        "quality_detection_rate_on_injected": 0.7619047619047619,
+        "healthy_quality_false_positive_rate": 0.0,
+        "diagnosis_coverage_on_detected": 1.0,
+        "root_top1_on_detected": 1.0,
+        "root_top3_on_detected": 1.0,
+        "root_top5_on_detected": 1.0,
+        "interpretation": "Quality exceeds a preset final tolerance; injected faults may be compensated. Root metrics condition on injected + final quality defect."
+      }
+    },
+    {
+      "dataset_dir": "/Users/hyi/aircraft-assembly-simulation/data/verification_batch_02",
+      "metrics": {
+        "n_test": 30,
+        "n_injected": 21,
+        "n_healthy": 9,
+        "n_quality_defects": 19,
+        "n_detected_injected": 19,
+        "n_localized_candidates": 19,
+        "quality_detection_rate_on_injected": 0.9047619047619048,
+        "healthy_quality_false_positive_rate": 0.0,
+        "diagnosis_coverage_on_detected": 1.0,
+        "root_top1_on_detected": 1.0,
+        "root_top3_on_detected": 1.0,
+        "root_top5_on_detected": 1.0,
+        "interpretation": "Quality exceeds a preset final tolerance; injected faults may be compensated. Root metrics condition on injected + final quality defect."
+      }
+    }
+  ]
+}

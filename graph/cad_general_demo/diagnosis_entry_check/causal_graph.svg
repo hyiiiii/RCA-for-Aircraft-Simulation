@@ -1,0 +1,180 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1220" height="1640" viewBox="0 0 1220 1640">
+<title>四阶段定位反馈因果图</title><desc>箭头来自生成方程。灰线同点延续，蓝线定位与共同运动，红线为候选溯源路径。初始状态和首次动作节点见完整JSON。</desc><defs>
+<marker id="gray" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#b1bac1"/></marker>
+<marker id="blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#486778"/></marker>
+<marker id="red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#c44732"/></marker>
+</defs><rect width="1220" height="1640" fill="white"/><style>text{font-family:"Hiragino Sans GB","Microsoft YaHei","Arial Unicode MS",sans-serif;fill:#23333e}</style>
+<text x="38" y="58" text-anchor="start" font-size="35" style="fill:#23333e">四阶段因果图</text>
+<text x="38" y="102" text-anchor="start" font-size="25" style="fill:#23333e">定位点 → 共同调整 → 后续测点</text>
+<text x="380" y="160" text-anchor="middle" font-size="26" style="fill:#23333e">A 机头</text>
+<text x="700" y="160" text-anchor="middle" font-size="26" style="fill:#23333e">B 机身</text>
+<text x="1020" y="160" text-anchor="middle" font-size="26" style="fill:#23333e">C 机尾</text>
+<rect x="270" y="183" width="220" height="85" fill="none" stroke="#23333e" stroke-width="1.8"/>
+<rect x="590" y="183" width="220" height="85" fill="none" stroke="#23333e" stroke-width="1.8"/>
+<rect x="910" y="183" width="220" height="85" fill="none" stroke="#23333e" stroke-width="1.8"/>
+<rect x="270" y="583" width="540" height="85" fill="none" stroke="#23333e" stroke-width="1.8"/>
+<rect x="910" y="583" width="220" height="85" fill="none" stroke="#23333e" stroke-width="1.8"/>
+<path d="M540 583V668" fill="none" stroke="#23333e" stroke-width="1"/>
+<rect x="270" y="983" width="860" height="85" fill="none" stroke="#23333e" stroke-width="1.8"/>
+<path d="M540 983V1068" fill="none" stroke="#23333e" stroke-width="1"/>
+<path d="M860 983V1068" fill="none" stroke="#23333e" stroke-width="1"/>
+<rect x="270" y="1383" width="860" height="85" fill="none" stroke="#23333e" stroke-width="1.8"/>
+<path d="M540 1383V1468" fill="none" stroke="#23333e" stroke-width="1"/>
+<path d="M860 1383V1468" fill="none" stroke="#23333e" stroke-width="1"/>
+<path d="M320 232L320 607" fill="none" stroke="#b1bac1" stroke-width="1.5" marker-end="url(#gray)"/>
+<path d="M380 232L380 607" fill="none" stroke="#b1bac1" stroke-width="1.5" marker-end="url(#gray)"/>
+<path d="M440 232L440 607" fill="none" stroke="#b1bac1" stroke-width="1.5" marker-end="url(#gray)"/>
+<path d="M640 232L640 607" fill="none" stroke="#b1bac1" stroke-width="1.5" marker-end="url(#gray)"/>
+<path d="M700 232L700 607" fill="none" stroke="#b1bac1" stroke-width="1.5" marker-end="url(#gray)"/>
+<path d="M760 232L760 607" fill="none" stroke="#b1bac1" stroke-width="1.5" marker-end="url(#gray)"/>
+<path d="M960 232L960 607" fill="none" stroke="#b1bac1" stroke-width="1.5" marker-end="url(#gray)"/>
+<path d="M1020 232L1020 607" fill="none" stroke="#b1bac1" stroke-width="1.5" marker-end="url(#gray)"/>
+<path d="M1080 232L1080 607" fill="none" stroke="#b1bac1" stroke-width="1.5" marker-end="url(#gray)"/>
+<path d="M320 632L320 1007" fill="none" stroke="#b1bac1" stroke-width="1.5" marker-end="url(#gray)"/>
+<path d="M380 632L380 1007" fill="none" stroke="#c44732" stroke-width="3.3" marker-end="url(#red)"/>
+<path d="M440 632L440 1007" fill="none" stroke="#b1bac1" stroke-width="1.5" marker-end="url(#gray)"/>
+<path d="M640 632L640 1007" fill="none" stroke="#b1bac1" stroke-width="1.5" marker-end="url(#gray)"/>
+<path d="M700 632L700 1007" fill="none" stroke="#b1bac1" stroke-width="1.5" marker-end="url(#gray)"/>
+<path d="M760 632L760 1007" fill="none" stroke="#b1bac1" stroke-width="1.5" marker-end="url(#gray)"/>
+<path d="M960 632L960 1007" fill="none" stroke="#b1bac1" stroke-width="1.5" marker-end="url(#gray)"/>
+<path d="M1020 632L1020 1007" fill="none" stroke="#b1bac1" stroke-width="1.5" marker-end="url(#gray)"/>
+<path d="M1080 632L1080 1007" fill="none" stroke="#b1bac1" stroke-width="1.5" marker-end="url(#gray)"/>
+<path d="M320 1032L320 1407" fill="none" stroke="#b1bac1" stroke-width="1.5" marker-end="url(#gray)"/>
+<path d="M380 1032L380 1407" fill="none" stroke="#c44732" stroke-width="3.3" marker-end="url(#red)"/>
+<path d="M440 1032L440 1407" fill="none" stroke="#b1bac1" stroke-width="1.5" marker-end="url(#gray)"/>
+<path d="M640 1032L640 1407" fill="none" stroke="#b1bac1" stroke-width="1.5" marker-end="url(#gray)"/>
+<path d="M700 1032L700 1407" fill="none" stroke="#b1bac1" stroke-width="1.5" marker-end="url(#gray)"/>
+<path d="M760 1032L760 1407" fill="none" stroke="#b1bac1" stroke-width="1.5" marker-end="url(#gray)"/>
+<path d="M960 1032L960 1407" fill="none" stroke="#b1bac1" stroke-width="1.5" marker-end="url(#gray)"/>
+<path d="M1020 1032L1020 1407" fill="none" stroke="#b1bac1" stroke-width="1.5" marker-end="url(#gray)"/>
+<path d="M1080 1032L1080 1407" fill="none" stroke="#b1bac1" stroke-width="1.5" marker-end="url(#gray)"/>
+<path d="M324 231C324 301,507.5 335,507.5 381" fill="none" stroke="#486778" stroke-width="1.9" marker-end="url(#blue)"/>
+<path d="M384 231C384 301,520.5 335,520.5 381" fill="none" stroke="#486778" stroke-width="1.9" marker-end="url(#blue)"/>
+<path d="M444 231C444 301,533.5 335,533.5 381" fill="none" stroke="#486778" stroke-width="1.9" marker-end="url(#blue)"/>
+<path d="M644 231C644 301,546.5 335,546.5 381" fill="none" stroke="#486778" stroke-width="1.9" marker-end="url(#blue)"/>
+<path d="M704 231C704 301,559.5 335,559.5 381" fill="none" stroke="#486778" stroke-width="1.9" marker-end="url(#blue)"/>
+<path d="M764 231C764 301,572.5 335,572.5 381" fill="none" stroke="#486778" stroke-width="1.9" marker-end="url(#blue)"/>
+<path d="M527.0 459C527.0 509,316 538,316 607" fill="none" stroke="#486778" stroke-width="1.9" marker-end="url(#blue)"/>
+<path d="M540.0 459C540.0 509,376 538,376 607" fill="none" stroke="#c44732" stroke-width="3.3" marker-end="url(#red)"/>
+<path d="M553.0 459C553.0 509,436 538,436 607" fill="none" stroke="#486778" stroke-width="1.9" marker-end="url(#blue)"/>
+<rect x="465" y="381" width="150" height="78" rx="30" fill="white" stroke="#486778" stroke-width="2"/>
+<text x="540" y="414" text-anchor="middle" font-size="25" style="fill:#23333e">前对合</text>
+<text x="540" y="444" text-anchor="middle" font-size="21" style="fill:#23333e">移动 A</text>
+<path d="M644 631C644 701,827.5 735,827.5 781" fill="none" stroke="#486778" stroke-width="1.9" marker-end="url(#blue)"/>
+<path d="M704 631C704 701,840.5 735,840.5 781" fill="none" stroke="#486778" stroke-width="1.9" marker-end="url(#blue)"/>
+<path d="M764 631C764 701,853.5 735,853.5 781" fill="none" stroke="#486778" stroke-width="1.9" marker-end="url(#blue)"/>
+<path d="M964 631C964 701,866.5 735,866.5 781" fill="none" stroke="#486778" stroke-width="1.9" marker-end="url(#blue)"/>
+<path d="M1024 631C1024 701,879.5 735,879.5 781" fill="none" stroke="#486778" stroke-width="1.9" marker-end="url(#blue)"/>
+<path d="M1084 631C1084 701,892.5 735,892.5 781" fill="none" stroke="#486778" stroke-width="1.9" marker-end="url(#blue)"/>
+<path d="M847.0 859C847.0 909,956 938,956 1007" fill="none" stroke="#486778" stroke-width="1.9" marker-end="url(#blue)"/>
+<path d="M860.0 859C860.0 909,1016 938,1016 1007" fill="none" stroke="#486778" stroke-width="1.9" marker-end="url(#blue)"/>
+<path d="M873.0 859C873.0 909,1076 938,1076 1007" fill="none" stroke="#486778" stroke-width="1.9" marker-end="url(#blue)"/>
+<rect x="785" y="781" width="150" height="78" rx="30" fill="white" stroke="#486778" stroke-width="2"/>
+<text x="860" y="814" text-anchor="middle" font-size="25" style="fill:#23333e">后对合</text>
+<text x="860" y="844" text-anchor="middle" font-size="21" style="fill:#23333e">移动 C</text>
+<path d="M324 1031C324 1101,808.0 1135,808.0 1181" fill="none" stroke="#486778" stroke-width="1.9" marker-end="url(#blue)"/>
+<path d="M384 1031C384 1101,821.0 1135,821.0 1181" fill="none" stroke="#486778" stroke-width="1.9" marker-end="url(#blue)"/>
+<path d="M444 1031C444 1101,834.0 1135,834.0 1181" fill="none" stroke="#486778" stroke-width="1.9" marker-end="url(#blue)"/>
+<path d="M644 1031C644 1101,847.0 1135,847.0 1181" fill="none" stroke="#486778" stroke-width="1.9" marker-end="url(#blue)"/>
+<path d="M704 1031C704 1101,860.0 1135,860.0 1181" fill="none" stroke="#486778" stroke-width="1.9" marker-end="url(#blue)"/>
+<path d="M764 1031C764 1101,873.0 1135,873.0 1181" fill="none" stroke="#486778" stroke-width="1.9" marker-end="url(#blue)"/>
+<path d="M964 1031C964 1101,886.0 1135,886.0 1181" fill="none" stroke="#486778" stroke-width="1.9" marker-end="url(#blue)"/>
+<path d="M1024 1031C1024 1101,899.0 1135,899.0 1181" fill="none" stroke="#486778" stroke-width="1.9" marker-end="url(#blue)"/>
+<path d="M1084 1031C1084 1101,912.0 1135,912.0 1181" fill="none" stroke="#486778" stroke-width="1.9" marker-end="url(#blue)"/>
+<path d="M808.0 1259C808.0 1309,316 1338,316 1407" fill="none" stroke="#486778" stroke-width="1.9" marker-end="url(#blue)"/>
+<path d="M821.0 1259C821.0 1309,376 1338,376 1407" fill="none" stroke="#486778" stroke-width="1.9" marker-end="url(#blue)"/>
+<path d="M834.0 1259C834.0 1309,436 1338,436 1407" fill="none" stroke="#486778" stroke-width="1.9" marker-end="url(#blue)"/>
+<path d="M847.0 1259C847.0 1309,636 1338,636 1407" fill="none" stroke="#486778" stroke-width="1.9" marker-end="url(#blue)"/>
+<path d="M860.0 1259C860.0 1309,696 1338,696 1407" fill="none" stroke="#486778" stroke-width="1.9" marker-end="url(#blue)"/>
+<path d="M873.0 1259C873.0 1309,756 1338,756 1407" fill="none" stroke="#486778" stroke-width="1.9" marker-end="url(#blue)"/>
+<path d="M886.0 1259C886.0 1309,956 1338,956 1407" fill="none" stroke="#486778" stroke-width="1.9" marker-end="url(#blue)"/>
+<path d="M899.0 1259C899.0 1309,1016 1338,1016 1407" fill="none" stroke="#486778" stroke-width="1.9" marker-end="url(#blue)"/>
+<path d="M912.0 1259C912.0 1309,1076 1338,1076 1407" fill="none" stroke="#486778" stroke-width="1.9" marker-end="url(#blue)"/>
+<rect x="785" y="1181" width="150" height="78" rx="30" fill="white" stroke="#486778" stroke-width="2"/>
+<text x="860" y="1214" text-anchor="middle" font-size="25" style="fill:#23333e">再调姿</text>
+<text x="860" y="1244" text-anchor="middle" font-size="21" style="fill:#23333e">移动整机</text>
+<circle cx="320" cy="220" r="10" fill="white" stroke="#23333e" stroke-width="2.5"/>
+<text x="335" y="227" text-anchor="start" font-size="21" style="fill:#23333e">A1</text>
+<circle cx="380" cy="220" r="10" fill="white" stroke="#23333e" stroke-width="2.5"/>
+<text x="395" y="227" text-anchor="start" font-size="21" style="fill:#23333e">A2</text>
+<circle cx="440" cy="220" r="10" fill="white" stroke="#23333e" stroke-width="2.5"/>
+<text x="455" y="227" text-anchor="start" font-size="21" style="fill:#23333e">A3</text>
+<circle cx="640" cy="220" r="10" fill="white" stroke="#23333e" stroke-width="2.5"/>
+<text x="655" y="227" text-anchor="start" font-size="21" style="fill:#23333e">B1</text>
+<circle cx="700" cy="220" r="10" fill="white" stroke="#23333e" stroke-width="2.5"/>
+<text x="715" y="227" text-anchor="start" font-size="21" style="fill:#23333e">B2</text>
+<circle cx="760" cy="220" r="10" fill="white" stroke="#23333e" stroke-width="2.5"/>
+<text x="775" y="227" text-anchor="start" font-size="21" style="fill:#23333e">B3</text>
+<circle cx="960" cy="220" r="10" fill="white" stroke="#23333e" stroke-width="2.5"/>
+<text x="975" y="227" text-anchor="start" font-size="21" style="fill:#23333e">C1</text>
+<circle cx="1020" cy="220" r="10" fill="white" stroke="#23333e" stroke-width="2.5"/>
+<text x="1035" y="227" text-anchor="start" font-size="21" style="fill:#23333e">C2</text>
+<circle cx="1080" cy="220" r="10" fill="white" stroke="#23333e" stroke-width="2.5"/>
+<text x="1095" y="227" text-anchor="start" font-size="21" style="fill:#23333e">C3</text>
+<circle cx="320" cy="620" r="10" fill="white" stroke="#23333e" stroke-width="2.5"/>
+<text x="335" y="627" text-anchor="start" font-size="21" style="fill:#23333e">A1</text>
+<circle cx="380" cy="620" r="10" fill="white" stroke="#c44732" stroke-width="2.5"/>
+<text x="395" y="627" text-anchor="start" font-size="21" style="fill:#c44732">A2</text>
+<circle cx="440" cy="620" r="10" fill="white" stroke="#23333e" stroke-width="2.5"/>
+<text x="455" y="627" text-anchor="start" font-size="21" style="fill:#23333e">A3</text>
+<circle cx="640" cy="620" r="10" fill="white" stroke="#23333e" stroke-width="2.5"/>
+<text x="655" y="627" text-anchor="start" font-size="21" style="fill:#23333e">B1</text>
+<circle cx="700" cy="620" r="10" fill="white" stroke="#23333e" stroke-width="2.5"/>
+<text x="715" y="627" text-anchor="start" font-size="21" style="fill:#23333e">B2</text>
+<circle cx="760" cy="620" r="10" fill="white" stroke="#23333e" stroke-width="2.5"/>
+<text x="775" y="627" text-anchor="start" font-size="21" style="fill:#23333e">B3</text>
+<circle cx="960" cy="620" r="10" fill="white" stroke="#23333e" stroke-width="2.5"/>
+<text x="975" y="627" text-anchor="start" font-size="21" style="fill:#23333e">C1</text>
+<circle cx="1020" cy="620" r="10" fill="white" stroke="#23333e" stroke-width="2.5"/>
+<text x="1035" y="627" text-anchor="start" font-size="21" style="fill:#23333e">C2</text>
+<circle cx="1080" cy="620" r="10" fill="white" stroke="#23333e" stroke-width="2.5"/>
+<text x="1095" y="627" text-anchor="start" font-size="21" style="fill:#23333e">C3</text>
+<circle cx="320" cy="1020" r="10" fill="white" stroke="#23333e" stroke-width="2.5"/>
+<text x="335" y="1027" text-anchor="start" font-size="21" style="fill:#23333e">A1</text>
+<circle cx="380" cy="1020" r="10" fill="white" stroke="#c44732" stroke-width="2.5"/>
+<text x="395" y="1027" text-anchor="start" font-size="21" style="fill:#c44732">A2</text>
+<circle cx="440" cy="1020" r="10" fill="white" stroke="#23333e" stroke-width="2.5"/>
+<text x="455" y="1027" text-anchor="start" font-size="21" style="fill:#23333e">A3</text>
+<circle cx="640" cy="1020" r="10" fill="white" stroke="#23333e" stroke-width="2.5"/>
+<text x="655" y="1027" text-anchor="start" font-size="21" style="fill:#23333e">B1</text>
+<circle cx="700" cy="1020" r="10" fill="white" stroke="#23333e" stroke-width="2.5"/>
+<text x="715" y="1027" text-anchor="start" font-size="21" style="fill:#23333e">B2</text>
+<circle cx="760" cy="1020" r="10" fill="white" stroke="#23333e" stroke-width="2.5"/>
+<text x="775" y="1027" text-anchor="start" font-size="21" style="fill:#23333e">B3</text>
+<circle cx="960" cy="1020" r="10" fill="white" stroke="#23333e" stroke-width="2.5"/>
+<text x="975" y="1027" text-anchor="start" font-size="21" style="fill:#23333e">C1</text>
+<circle cx="1020" cy="1020" r="10" fill="white" stroke="#23333e" stroke-width="2.5"/>
+<text x="1035" y="1027" text-anchor="start" font-size="21" style="fill:#23333e">C2</text>
+<circle cx="1080" cy="1020" r="10" fill="white" stroke="#23333e" stroke-width="2.5"/>
+<text x="1095" y="1027" text-anchor="start" font-size="21" style="fill:#23333e">C3</text>
+<circle cx="320" cy="1420" r="10" fill="white" stroke="#23333e" stroke-width="2.5"/>
+<text x="335" y="1427" text-anchor="start" font-size="21" style="fill:#23333e">A1</text>
+<circle cx="380" cy="1420" r="10" fill="white" stroke="#c44732" stroke-width="2.5"/>
+<text x="395" y="1427" text-anchor="start" font-size="21" style="fill:#c44732">A2</text>
+<circle cx="440" cy="1420" r="10" fill="white" stroke="#23333e" stroke-width="2.5"/>
+<text x="455" y="1427" text-anchor="start" font-size="21" style="fill:#23333e">A3</text>
+<circle cx="640" cy="1420" r="10" fill="white" stroke="#23333e" stroke-width="2.5"/>
+<text x="655" y="1427" text-anchor="start" font-size="21" style="fill:#23333e">B1</text>
+<circle cx="700" cy="1420" r="10" fill="white" stroke="#23333e" stroke-width="2.5"/>
+<text x="715" y="1427" text-anchor="start" font-size="21" style="fill:#23333e">B2</text>
+<circle cx="760" cy="1420" r="10" fill="white" stroke="#23333e" stroke-width="2.5"/>
+<text x="775" y="1427" text-anchor="start" font-size="21" style="fill:#23333e">B3</text>
+<circle cx="960" cy="1420" r="10" fill="white" stroke="#23333e" stroke-width="2.5"/>
+<text x="975" y="1427" text-anchor="start" font-size="21" style="fill:#23333e">C1</text>
+<circle cx="1020" cy="1420" r="10" fill="white" stroke="#23333e" stroke-width="2.5"/>
+<text x="1035" y="1427" text-anchor="start" font-size="21" style="fill:#23333e">C2</text>
+<circle cx="1080" cy="1420" r="10" fill="white" stroke="#23333e" stroke-width="2.5"/>
+<text x="1095" y="1427" text-anchor="start" font-size="21" style="fill:#23333e">C3</text>
+<text x="30" y="222" text-anchor="start" font-size="27" style="fill:#23333e">首次调姿后</text>
+<text x="30" y="622" text-anchor="start" font-size="27" style="fill:#23333e">前对合后</text>
+<text x="30" y="1022" text-anchor="start" font-size="27" style="fill:#23333e">后对合后</text>
+<text x="30" y="1422" text-anchor="start" font-size="27" style="fill:#23333e">再调姿后</text>
+<path d="M40 1517H97" fill="none" stroke="#b1bac1" stroke-width="2.4" marker-end="url(#gray)"/>
+<text x="112" y="1525" text-anchor="start" font-size="22" style="fill:#23333e">同点延续</text>
+<path d="M340 1517H397" fill="none" stroke="#486778" stroke-width="2.4" marker-end="url(#blue)"/>
+<text x="412" y="1525" text-anchor="start" font-size="22" style="fill:#23333e">定位与运动作用</text>
+<path d="M760 1517H817" fill="none" stroke="#c44732" stroke-width="2.4" marker-end="url(#red)"/>
+<text x="832" y="1525" text-anchor="start" font-size="22" style="fill:#23333e">候选溯源路径</text>
+<text x="40" y="1573" text-anchor="start" font-size="21" style="fill:#23333e">小框：从定位点计算并执行 R、t；前、后对合固定 B。</text>
+<text x="40" y="1612" text-anchor="start" font-size="21" style="fill:#23333e">红线表示候选路径；图中省略初始状态、测量噪声与固定目标。</text>
+</svg>

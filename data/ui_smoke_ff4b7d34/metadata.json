@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "units": "mm",
+  "shape": "sample,stage,point,xyz",
+  "splits": {
+    "train": 6,
+    "calibration": 8,
+    "test": 4
+  },
+  "point_names": [
+    "A1",
+    "A2",
+    "A3",
+    "B1",
+    "B2",
+    "B3",
+    "C1",
+    "C2",
+    "C3"
+  ],
+  "stages": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "process_sigma": 0.02,
+  "measurement_sigma": 0.03,
+  "quality_limit_mm": 1.0,
+  "purpose": "observations.npz/CSV are diagnosis inputs; evaluation/ is evaluator-only"
+}

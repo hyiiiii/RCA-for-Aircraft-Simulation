@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "aircraft-assembly-simulation"
+version = "0.1.0"
+description = "Four-stage rigid-body feedback simulation and checkpoint error tracing"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.24,<3"]
+
+[tool.setuptools]
+packages = ["assembly_sim"]
+py-modules = ["pipeline_core"]
+
+[tool.setuptools.package-data]
+assembly_sim = ["cad_preview.html"]

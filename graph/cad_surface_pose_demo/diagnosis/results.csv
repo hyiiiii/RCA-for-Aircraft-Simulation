@@ -1,0 +1,17 @@
+﻿sample_id,quality_defect,observed_node,maximum_final_error_mm,predicted_root,trace_status
+test_00000,True,s4_C3,1.3557547785402129,h3_rear,localized_candidate
+test_00001,False,s4_B3,0.13547209454300382,,no_quality_defect_at_entry
+test_00002,True,s4_B4,2.082973688078501,h4_final,localized_candidate
+test_00003,False,s4_B2,0.1421584015199182,,no_quality_defect_at_entry
+test_00004,False,s4_A2,0.16891994181344724,,no_quality_defect_at_entry
+test_00005,False,s4_B1,0.9873215491750225,,no_quality_defect_at_entry
+test_00006,False,s4_C4,0.0980229205372579,,no_quality_defect_at_entry
+test_00007,False,s4_C4,0.12955398432611565,,no_quality_defect_at_entry
+test_00008,False,s4_C2,0.18082807878525817,,no_quality_defect_at_entry
+test_00009,False,s4_B3,0.9188548315500121,,no_quality_defect_at_entry
+test_00010,True,s4_A3,2.0302905247685894,h4_final,localized_candidate
+test_00011,True,s4_A3,2.1207852551861377,h4_final,localized_candidate
+test_00012,True,s4_A3,2.017169301637142,h4_final,localized_candidate
+test_00013,False,s4_A3,0.18057973299055788,,no_quality_defect_at_entry
+test_00014,False,s4_C4,0.114572306415597,,no_quality_defect_at_entry
+test_00015,True,s4_C2,2.1358071204049596,h4_final,localized_candidate

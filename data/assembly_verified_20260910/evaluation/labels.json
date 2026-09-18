@@ -1,0 +1,1082 @@
+[
+  {
+    "sample_id": "test_00000",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -1.798179325826091,
+      -0.4682290274840699,
+      -0.7398058461467757
+    ]
+  },
+  {
+    "sample_id": "test_00001",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00002",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      1.5788613663038007,
+      0.9459617237012483,
+      0.7825300015241969
+    ]
+  },
+  {
+    "sample_id": "test_00003",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00004",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      0.9778274014489211,
+      -0.5244796504821885,
+      -1.6639635420302128
+    ]
+  },
+  {
+    "sample_id": "test_00005",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -0.8587855386123014,
+      -1.4867394816584805,
+      -1.0257159023571059
+    ]
+  },
+  {
+    "sample_id": "test_00006",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -0.7548103198181606,
+      -0.5761241727618958,
+      1.7602108733488233
+    ]
+  },
+  {
+    "sample_id": "test_00007",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00008",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -0.45463090591735816,
+      -1.1380962418175642,
+      1.5805213328979455
+    ]
+  },
+  {
+    "sample_id": "test_00009",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00010",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -0.7229388752280789,
+      -0.38986485388414566,
+      -1.823558273922129
+    ]
+  },
+  {
+    "sample_id": "test_00011",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -0.25658008181557823,
+      -1.2252498750522045,
+      -1.5597850509926259
+    ]
+  },
+  {
+    "sample_id": "test_00012",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00013",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      1.2556986286607559,
+      1.4345419949377782,
+      -0.6044089830069007
+    ]
+  },
+  {
+    "sample_id": "test_00014",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00015",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      0.8045589844575805,
+      -1.7600812101045882,
+      -0.5047761626358317
+    ]
+  },
+  {
+    "sample_id": "test_00016",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      0.780210378470425,
+      1.1647907172442518,
+      1.4263710423128542
+    ]
+  },
+  {
+    "sample_id": "test_00017",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      1.6321253943519054,
+      0.7836303416285714,
+      0.8497588980356283
+    ]
+  },
+  {
+    "sample_id": "test_00018",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00019",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      0.03722917681234033,
+      0.7082550003368541,
+      1.870023754633004
+    ]
+  },
+  {
+    "sample_id": "test_00020",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      0.18577371688514902,
+      1.4617792603279218,
+      -1.3522904718254247
+    ]
+  },
+  {
+    "sample_id": "test_00021",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      0.7349078486027107,
+      -0.1815909280763518,
+      1.8511983116085928
+    ]
+  },
+  {
+    "sample_id": "test_00022",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -1.023196018632551,
+      -1.6759968968529426,
+      0.3796107337705339
+    ]
+  },
+  {
+    "sample_id": "test_00023",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00024",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      0.6940296602745156,
+      -1.7380971907344585,
+      -0.7052240680948312
+    ]
+  },
+  {
+    "sample_id": "test_00025",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -0.05340793114891242,
+      -0.961462772611271,
+      1.752922396962581
+    ]
+  },
+  {
+    "sample_id": "test_00026",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00027",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -1.4396210894188413,
+      -0.6163079895802026,
+      -1.2440480621262655
+    ]
+  },
+  {
+    "sample_id": "test_00028",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      0.1867634589042791,
+      1.0822431955031024,
+      1.6714870852642996
+    ]
+  },
+  {
+    "sample_id": "test_00029",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -1.8781201981486644,
+      0.5025982206043762,
+      -0.46910505214859616
+    ]
+  },
+  {
+    "sample_id": "test_00030",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      0.8866068930111702,
+      -1.0381469863028625,
+      1.461567327253645
+    ]
+  },
+  {
+    "sample_id": "test_00031",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      0.3034188779962621,
+      -0.17527993033877062,
+      -1.9690642271129517
+    ]
+  },
+  {
+    "sample_id": "test_00032",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00033",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -1.459564002930591,
+      0.6137749467286813,
+      1.221864655400685
+    ]
+  },
+  {
+    "sample_id": "test_00034",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -0.4653862227242095,
+      1.1852137900962132,
+      -1.5422982641059617
+    ]
+  },
+  {
+    "sample_id": "test_00035",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00036",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -0.7369210445303148,
+      1.1938179486278988,
+      1.425393307007657
+    ]
+  },
+  {
+    "sample_id": "test_00037",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      1.016553570423542,
+      -1.6574596146683835,
+      -0.4684511332065297
+    ]
+  },
+  {
+    "sample_id": "test_00038",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      0.21709041125869954,
+      1.4378659223720407,
+      1.3731035440274448
+    ]
+  },
+  {
+    "sample_id": "test_00039",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00040",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00041",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -1.0190355198363237,
+      0.3726705280835414,
+      1.68008430943505
+    ]
+  },
+  {
+    "sample_id": "test_00042",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -1.9997403821050954,
+      -0.012910264476014852,
+      -0.029525061377185566
+    ]
+  },
+  {
+    "sample_id": "test_00043",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00044",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -1.9510900140019218,
+      -0.32977728094954617,
+      -0.29067972449330504
+    ]
+  },
+  {
+    "sample_id": "test_00045",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00046",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -0.5967483487783286,
+      0.9422941464892748,
+      1.660112390689976
+    ]
+  },
+  {
+    "sample_id": "test_00047",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -1.5271788552971568,
+      -0.8354257300636357,
+      0.9847784489319955
+    ]
+  },
+  {
+    "sample_id": "test_00048",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00049",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -1.2403204759371544,
+      1.3373785026835052,
+      -0.8203803127398024
+    ]
+  },
+  {
+    "sample_id": "test_00050",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -1.656787725777112,
+      1.0651212944619812,
+      -0.3472334370390308
+    ]
+  },
+  {
+    "sample_id": "test_00051",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      1.7527592923182924,
+      0.6156191027446595,
+      -0.7408427522273128
+    ]
+  },
+  {
+    "sample_id": "test_00052",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      1.060031125275858,
+      1.674755579407555,
+      0.26744674739032354
+    ]
+  },
+  {
+    "sample_id": "test_00053",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      1.5613573504133853,
+      -0.9592919608664265,
+      -0.8012004481571009
+    ]
+  },
+  {
+    "sample_id": "test_00054",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -0.7673960537047664,
+      -1.6969537049312133,
+      0.7290071467952692
+    ]
+  },
+  {
+    "sample_id": "test_00055",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00056",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      0.30766078172985306,
+      1.7117992167932068,
+      0.98746558662646
+    ]
+  },
+  {
+    "sample_id": "test_00057",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      1.381184312935231,
+      0.37554235957010407,
+      1.3968886247192909
+    ]
+  },
+  {
+    "sample_id": "test_00058",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -1.01859679471162,
+      -0.6909674838729107,
+      1.5763960498661347
+    ]
+  },
+  {
+    "sample_id": "test_00059",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -0.6022593481850717,
+      1.8870271030583827,
+      0.27642791075935447
+    ]
+  },
+  {
+    "sample_id": "test_00060",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -1.9170218905626055,
+      -0.298800753142764,
+      0.48553597294648587
+    ]
+  },
+  {
+    "sample_id": "test_00061",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      1.2778352881458037,
+      -0.05756557584665205,
+      1.5374729854038975
+    ]
+  },
+  {
+    "sample_id": "test_00062",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00063",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      1.517426296381569,
+      -0.42267960522961645,
+      -1.2323795626237273
+    ]
+  },
+  {
+    "sample_id": "test_00064",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00065",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -0.6932482829272993,
+      -1.8130694275432497,
+      0.48185689693761147
+    ]
+  },
+  {
+    "sample_id": "test_00066",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      0.12459552774593358,
+      0.7787088715561572,
+      -1.8379576839050042
+    ]
+  },
+  {
+    "sample_id": "test_00067",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00068",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -0.07091715626892955,
+      1.9656817080141245,
+      -0.3620306336836747
+    ]
+  },
+  {
+    "sample_id": "test_00069",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      0.2539356106734411,
+      -1.9832670416127376,
+      0.04656766350770552
+    ]
+  },
+  {
+    "sample_id": "test_00070",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -0.9952554762504038,
+      -0.24019252318213494,
+      1.718072783324671
+    ]
+  },
+  {
+    "sample_id": "test_00071",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      1.1854464395030722,
+      1.052997013893024,
+      1.2189807331544926
+    ]
+  },
+  {
+    "sample_id": "test_00072",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -1.2707169152394233,
+      1.4326950505282718,
+      -0.576769809816877
+    ]
+  },
+  {
+    "sample_id": "test_00073",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00074",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -0.1253125261424756,
+      -1.9956485266203403,
+      -0.04103326686793836
+    ]
+  },
+  {
+    "sample_id": "test_00075",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -1.9697793583426757,
+      0.30166047081726394,
+      -0.17020646225517622
+    ]
+  },
+  {
+    "sample_id": "test_00076",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -0.3041243162935202,
+      0.2666937747967223,
+      -1.9586686372951587
+    ]
+  },
+  {
+    "sample_id": "test_00077",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00078",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -1.5903394301916793,
+      -0.8583449499235923,
+      -0.8567756087321059
+    ]
+  },
+  {
+    "sample_id": "test_00079",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -1.998110438527736,
+      0.040532578769326165,
+      -0.076888136307281
+    ]
+  },
+  {
+    "sample_id": "test_00080",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -1.412509793027717,
+      0.9735862617292104,
+      1.0280787302405088
+    ]
+  },
+  {
+    "sample_id": "test_00081",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      1.3630159728477589,
+      -0.7406264413698206,
+      -1.2624024445895823
+    ]
+  },
+  {
+    "sample_id": "test_00082",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00083",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00084",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00085",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00086",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00087",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -1.3269783583474226,
+      -0.916378317600313,
+      1.1829535982064552
+    ]
+  },
+  {
+    "sample_id": "test_00088",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      1.3113341720274148,
+      1.161359591227251,
+      -0.965218415249962
+    ]
+  },
+  {
+    "sample_id": "test_00089",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00090",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      0.5089817038862815,
+      -0.8578731960420815,
+      1.7334910454402588
+    ]
+  },
+  {
+    "sample_id": "test_00091",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00092",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -1.9386135584402324,
+      0.19979093004592224,
+      0.4492895005484604
+    ]
+  },
+  {
+    "sample_id": "test_00093",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      0.1278754829342443,
+      1.4834771175469188,
+      -1.3352690749729128
+    ]
+  },
+  {
+    "sample_id": "test_00094",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00095",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -0.09662980596333029,
+      1.1442592942583143,
+      1.637477739727461
+    ]
+  },
+  {
+    "sample_id": "test_00096",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -1.1050648116343562,
+      0.9717913174304089,
+      1.3544199487066024
+    ]
+  },
+  {
+    "sample_id": "test_00097",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -0.8437556244305405,
+      0.8988186395669238,
+      1.5748655496292037
+    ]
+  },
+  {
+    "sample_id": "test_00098",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      0.61507022029673,
+      1.6436859503267114,
+      0.9591585483134202
+    ]
+  },
+  {
+    "sample_id": "test_00099",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      -0.7182974920839197,
+      -1.8313112168554737,
+      0.3610373109323679
+    ]
+  }
+]

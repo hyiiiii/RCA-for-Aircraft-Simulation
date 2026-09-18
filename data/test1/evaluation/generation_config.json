@@ -1,0 +1,213 @@
+{
+  "dataset_name": "test1",
+  "n_total": 600,
+  "test_fraction": 0.2,
+  "seed": 40,
+  "process_sigma": 0.02,
+  "measurement_sigma": 0.03,
+  "fault_fraction": 0.5,
+  "fault_magnitude": 1.2,
+  "fault_stage": null,
+  "fault_part": null,
+  "data_root": "/Users/hyi/aircraft-assembly-simulation/data",
+  "graph_root": "/Users/hyi/aircraft-assembly-simulation/graph",
+  "forward_settings": {
+    "initial_rotation_deg": 25.0,
+    "initial_translation_mm": 350.0,
+    "process_rotation_deg": 0.002
+  },
+  "cad_geometry": {
+    "radius": 300.0,
+    "nose_length": 600.0,
+    "body_length": 1200.0,
+    "tail_length": 600.0,
+    "exhaust_radius": 90.0,
+    "exhaust_length": 190.0,
+    "exhaust_offset": 150.0,
+    "fin_span": 350.0,
+    "fin_root_chord": 350.0,
+    "fin_tip_chord": 170.0,
+    "fin_sweep": 150.0,
+    "fin_thickness": 18.0
+  },
+  "cad_motion": {
+    "front_gap_mm": 250.0,
+    "rear_gap_mm": 250.0
+  },
+  "cad_checkpoints": {
+    "A": [
+      {
+        "name": "A1",
+        "position": [
+          150.0,
+          272.9560403143369,
+          99.34787393758417
+        ]
+      },
+      {
+        "name": "A2",
+        "position": [
+          0.0,
+          -199.0241844506815,
+          167.00111976792584
+        ]
+      },
+      {
+        "name": "A3",
+        "position": [
+          -150.0,
+          -34.45724202946934,
+          -195.41673027589673
+        ]
+      },
+      {
+        "name": "A4",
+        "position": [
+          300.0,
+          -219.915561549,
+          -204.051821331
+        ]
+      },
+      {
+        "name": "A5",
+        "position": [
+          -53.253551135,
+          212.962814153,
+          -115.973367377
+        ]
+      },
+      {
+        "name": "A6",
+        "position": [
+          -53.253551135,
+          -242.191823848,
+          12.087291415
+        ]
+      }
+    ],
+    "B": [
+      {
+        "name": "B1",
+        "position": [
+          -300.0,
+          281.9077862357725,
+          102.60604299770061
+        ]
+      },
+      {
+        "name": "B2",
+        "position": [
+          0.0,
+          -229.81333293569338,
+          192.83628290596184
+        ]
+      },
+      {
+        "name": "B3",
+        "position": [
+          300.0,
+          -52.0944533000791,
+          -295.4423259036624
+        ]
+      },
+      {
+        "name": "B4",
+        "position": [
+          -600.0,
+          214.760054778,
+          209.471045426
+        ]
+      },
+      {
+        "name": "B5",
+        "position": [
+          600.0,
+          102.606042998,
+          281.907786236
+        ]
+      },
+      {
+        "name": "B6",
+        "position": [
+          -600.0,
+          -116.530438882,
+          -276.442863561
+        ]
+      },
+      {
+        "name": "B7",
+        "position": [
+          600.0,
+          -252.007776945,
+          -162.76387916
+        ]
+      }
+    ],
+    "C": [
+      {
+        "name": "C1",
+        "position": [
+          -150.0,
+          281.9077862357725,
+          102.60604299770061
+        ]
+      },
+      {
+        "name": "C2",
+        "position": [
+          0.0,
+          -229.81333293569338,
+          192.83628290596184
+        ]
+      },
+      {
+        "name": "C3",
+        "position": [
+          150.0,
+          -52.0944533000791,
+          -295.4423259036624
+        ]
+      },
+      {
+        "name": "C4",
+        "position": [
+          300.0,
+          -88.7844536006,
+          65.9746684647
+        ]
+      },
+      {
+        "name": "C5",
+        "position": [
+          -300.0,
+          -284.37820385,
+          95.5459950755
+        ]
+      },
+      {
+        "name": "C6",
+        "position": [
+          -300.0,
+          -288.787274085,
+          81.2521404429
+        ]
+      },
+      {
+        "name": "C7",
+        "position": [
+          -300.0,
+          -130.165121735,
+          -270.290660371
+        ]
+      },
+      {
+        "name": "C8",
+        "position": [
+          300.0,
+          -214.760054778,
+          -209.471045426
+        ]
+      }
+    ]
+  }
+}

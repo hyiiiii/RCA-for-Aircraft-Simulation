@@ -1,0 +1,18 @@
+{
+  "task": "generation_only",
+  "dataset_dir": "/Users/hyi/aircraft-assembly-simulation/data/assembly_20260913_101543",
+  "graph_dir": "/Users/hyi/aircraft-assembly-simulation/graph/assembly_20260913_101543",
+  "splits": {
+    "train": 480,
+    "test": 120
+  },
+  "n_total": 600,
+  "example": {
+    "sample_id": "test_00000"
+  },
+  "files": {
+    "observations": "/Users/hyi/aircraft-assembly-simulation/data/assembly_20260913_101543/observations.csv",
+    "labels": "/Users/hyi/aircraft-assembly-simulation/data/assembly_20260913_101543/labels.json",
+    "graph": "/Users/hyi/aircraft-assembly-simulation/graph/assembly_20260913_101543/causal_graph.svg"
+  }
+}

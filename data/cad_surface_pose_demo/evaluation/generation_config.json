@@ -1,0 +1,131 @@
+{
+  "dataset_name": "cad_surface_pose_demo",
+  "n_total": 80,
+  "test_fraction": 0.2,
+  "seed": 42,
+  "process_sigma": 0.02,
+  "measurement_sigma": 0.03,
+  "fault_fraction": 0.5,
+  "fault_magnitude": 2.0,
+  "fault_stage": null,
+  "fault_part": null,
+  "data_root": "data",
+  "graph_root": "graph",
+  "forward_settings": {},
+  "cad_geometry": {},
+  "cad_motion": {
+    "front_gap_mm": 250.0,
+    "rear_gap_mm": 250.0,
+    "initial_offset_mm": 350.0,
+    "final_x_mm": 220,
+    "final_y_mm": -150,
+    "final_z_mm": 350,
+    "final_roll_deg": 10,
+    "final_pitch_deg": -20,
+    "final_yaw_deg": 35
+  },
+  "cad_checkpoints": {
+    "A": [
+      {
+        "name": "A1",
+        "position": [
+          150.0,
+          272.9560403143369,
+          99.34787393758417
+        ]
+      },
+      {
+        "name": "A2",
+        "position": [
+          0.0,
+          -199.0241844506815,
+          167.00111976792584
+        ]
+      },
+      {
+        "name": "A3",
+        "position": [
+          -150.0,
+          -34.45724202946934,
+          -195.41673027589673
+        ]
+      },
+      {
+        "name": "A4",
+        "position": [
+          300,
+          23,
+          44
+        ]
+      }
+    ],
+    "B": [
+      {
+        "name": "B1",
+        "position": [
+          -300.0,
+          281.9077862357725,
+          102.60604299770061
+        ]
+      },
+      {
+        "name": "B2",
+        "position": [
+          0.0,
+          -229.81333293569338,
+          192.83628290596184
+        ]
+      },
+      {
+        "name": "B3",
+        "position": [
+          300.0,
+          -52.0944533000791,
+          -295.4423259036624
+        ]
+      },
+      {
+        "name": "B4",
+        "position": [
+          12,
+          297.3213749463701,
+          40
+        ]
+      }
+    ],
+    "C": [
+      {
+        "name": "C1",
+        "position": [
+          -150.0,
+          281.9077862357725,
+          102.60604299770061
+        ]
+      },
+      {
+        "name": "C2",
+        "position": [
+          0.0,
+          -229.81333293569338,
+          192.83628290596184
+        ]
+      },
+      {
+        "name": "C3",
+        "position": [
+          150.0,
+          -52.0944533000791,
+          -295.4423259036624
+        ]
+      },
+      {
+        "name": "C4",
+        "position": [
+          200,
+          500,
+          9
+        ]
+      }
+    ]
+  }
+}

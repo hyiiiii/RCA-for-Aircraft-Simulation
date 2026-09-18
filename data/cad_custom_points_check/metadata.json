@@ -1,0 +1,43 @@
+{
+  "schema_version": 5,
+  "controller_policy": "body_relative",
+  "generation_mode": "cad_forward",
+  "planning_mode": "fixed_pose_targets",
+  "units": "mm",
+  "shape": "sample,stage,point,xyz",
+  "splits": {
+    "train": 96,
+    "test": 24
+  },
+  "point_names": [
+    "A2",
+    "A3",
+    "A4",
+    "A5",
+    "B2",
+    "B3",
+    "B4",
+    "B5",
+    "B6",
+    "C2",
+    "C3",
+    "C4",
+    "C5",
+    "C6",
+    "C7"
+  ],
+  "stages": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "process_sigma": 0.02,
+  "measurement_sigma": 0.03,
+  "n_total": 120,
+  "test_fraction": 0.2,
+  "split_policy": "Random split of complete trajectories, independent of simulation RNG; no calibration subset",
+  "fault_policy": "Exactly round(n_total*fault_fraction) trajectories across the whole dataset; each split fraction can fluctuate",
+  "purpose": "General-purpose train/test dataset with labels. No training, calibration or diagnosis is performed. evaluation/ contains simulator truth and actions."
+}

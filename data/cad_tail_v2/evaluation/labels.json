@@ -1,0 +1,202 @@
+[
+  {
+    "sample_id": "test_00000",
+    "injected": true,
+    "stage": 1,
+    "point": "B2",
+    "root": "s1_B2",
+    "offset": [
+      1.4942096213576093,
+      -1.0295360990155193,
+      0.8410666015639057
+    ]
+  },
+  {
+    "sample_id": "test_00001",
+    "injected": true,
+    "stage": 4,
+    "point": "C3",
+    "root": "s4_C3",
+    "offset": [
+      -0.30142735465941467,
+      1.2239748339346692,
+      -1.5527482589774901
+    ]
+  },
+  {
+    "sample_id": "test_00002",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00003",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00004",
+    "injected": true,
+    "stage": 3,
+    "point": "A1",
+    "root": "s3_A1",
+    "offset": [
+      0.6788623740278356,
+      -1.3477404316819845,
+      1.31253251614539
+    ]
+  },
+  {
+    "sample_id": "test_00005",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00006",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00007",
+    "injected": true,
+    "stage": 1,
+    "point": "C3",
+    "root": "s1_C3",
+    "offset": [
+      1.5721839358973067,
+      -0.5719729665701749,
+      -1.0959400518364895
+    ]
+  },
+  {
+    "sample_id": "test_00008",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00009",
+    "injected": true,
+    "stage": 1,
+    "point": "B1",
+    "root": "s1_B1",
+    "offset": [
+      -1.1915509584674016,
+      -1.5835671214348581,
+      0.2692981345756676
+    ]
+  },
+  {
+    "sample_id": "test_00010",
+    "injected": true,
+    "stage": 2,
+    "point": "B2",
+    "root": "s2_B2",
+    "offset": [
+      -0.011831685591238473,
+      -1.3706498242142968,
+      -1.4564268160801588
+    ]
+  },
+  {
+    "sample_id": "test_00011",
+    "injected": true,
+    "stage": 4,
+    "point": "C2",
+    "root": "s4_C2",
+    "offset": [
+      -0.4668594379624662,
+      0.5764741163618392,
+      1.8573421489726134
+    ]
+  },
+  {
+    "sample_id": "test_00012",
+    "injected": true,
+    "stage": 2,
+    "point": "C1",
+    "root": "s2_C1",
+    "offset": [
+      0.838363776441454,
+      0.8432576085203826,
+      -1.608123995226521
+    ]
+  },
+  {
+    "sample_id": "test_00013",
+    "injected": true,
+    "stage": 4,
+    "point": "C3",
+    "root": "s4_C3",
+    "offset": [
+      1.5079460704195078,
+      -1.0617753847453808,
+      0.7737775397717115
+    ]
+  },
+  {
+    "sample_id": "test_00014",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00015",
+    "injected": true,
+    "stage": 3,
+    "point": "A2",
+    "root": "s3_A2",
+    "offset": [
+      0.6990351183974666,
+      -1.2305309915437679,
+      1.413203234533997
+    ]
+  },
+  {
+    "sample_id": "test_00016",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00017",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00018",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00019",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  }
+]

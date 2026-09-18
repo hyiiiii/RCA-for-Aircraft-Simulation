@@ -1,0 +1,16 @@
+{
+  "dataset_name": "coordinates_only_demo",
+  "n_train": 20,
+  "n_calibration": 30,
+  "n_test": 10,
+  "seed": 42,
+  "process_sigma": 0.02,
+  "measurement_sigma": 0.03,
+  "quality_limit": 1.0,
+  "fault_fraction": 0.7,
+  "fault_magnitude": 2.0,
+  "fault_stage": null,
+  "fault_point": null,
+  "data_root": "/Users/hyi/aircraft-assembly-simulation/data",
+  "graph_root": "/Users/hyi/aircraft-assembly-simulation/graph"
+}

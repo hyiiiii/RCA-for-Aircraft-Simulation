@@ -1,0 +1,36 @@
+{
+  "dataset_name": "cad_fixed_targets",
+  "n_train": 80,
+  "n_calibration": 100,
+  "n_test": 20,
+  "seed": 42,
+  "process_sigma": 0.02,
+  "measurement_sigma": 0.03,
+  "quality_limit": 1.0,
+  "fault_fraction": 0.5,
+  "fault_magnitude": 2.0,
+  "fault_stage": null,
+  "fault_point": null,
+  "data_root": "/Users/hyi/aircraft-assembly-simulation/data",
+  "graph_root": "/Users/hyi/aircraft-assembly-simulation/graph",
+  "generation_mode": "cad_reverse",
+  "cad_geometry": {
+    "radius": 300,
+    "nose_length": 600,
+    "body_length": 1200,
+    "tail_length": 600,
+    "exhaust_radius": 90,
+    "exhaust_length": 190,
+    "exhaust_offset": 150,
+    "fin_span": 350,
+    "fin_root_chord": 350,
+    "fin_tip_chord": 170,
+    "fin_sweep": 150,
+    "fin_thickness": 18
+  },
+  "cad_motion": {
+    "front_gap_mm": 250,
+    "rear_gap_mm": 250,
+    "initial_offset_mm": 350
+  }
+}

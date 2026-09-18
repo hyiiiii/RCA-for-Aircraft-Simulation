@@ -1,0 +1,17 @@
+{
+  "dataset_name": "assembly_20260913_101543",
+  "n_total": 600,
+  "test_fraction": 0.2,
+  "seed": 40,
+  "process_sigma": 0.02,
+  "measurement_sigma": 0.03,
+  "fault_fraction": 0.5,
+  "fault_magnitude": 1.2,
+  "fault_stage": null,
+  "fault_part": null,
+  "data_root": "/Users/hyi/aircraft-assembly-simulation/data",
+  "graph_root": "/Users/hyi/aircraft-assembly-simulation/graph",
+  "forward_settings": {},
+  "cad_geometry": {},
+  "cad_motion": {}
+}

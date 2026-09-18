@@ -1,0 +1,222 @@
+[
+  {
+    "sample_id": "test_00000",
+    "injected": true,
+    "stage": 1,
+    "part": "B",
+    "point": null,
+    "root": "h1_B",
+    "offset": [
+      -0.9108002509470428,
+      0.74406683990984,
+      -1.617654920130183
+    ]
+  },
+  {
+    "sample_id": "test_00001",
+    "injected": true,
+    "stage": 2,
+    "part": "A",
+    "point": null,
+    "root": "h2_front",
+    "offset": [
+      -0.30142735465941467,
+      1.2239748339346692,
+      -1.5527482589774901
+    ]
+  },
+  {
+    "sample_id": "test_00002",
+    "injected": false,
+    "stage": null,
+    "part": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00003",
+    "injected": false,
+    "stage": null,
+    "part": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00004",
+    "injected": true,
+    "stage": 4,
+    "part": "ABC",
+    "point": null,
+    "root": "h4_final",
+    "offset": [
+      0.6788623740278356,
+      -1.3477404316819845,
+      1.31253251614539
+    ]
+  },
+  {
+    "sample_id": "test_00005",
+    "injected": false,
+    "stage": null,
+    "part": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00006",
+    "injected": false,
+    "stage": null,
+    "part": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00007",
+    "injected": true,
+    "stage": 3,
+    "part": "C",
+    "point": null,
+    "root": "h3_rear",
+    "offset": [
+      -1.017997357912128,
+      1.6177977391711142,
+      -0.5885676294333199
+    ]
+  },
+  {
+    "sample_id": "test_00008",
+    "injected": false,
+    "stage": null,
+    "part": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00009",
+    "injected": true,
+    "stage": 1,
+    "part": "A",
+    "point": null,
+    "root": "h1_A",
+    "offset": [
+      -1.4203012194298643,
+      -0.8466210890434664,
+      -1.1251565125229894
+    ]
+  },
+  {
+    "sample_id": "test_00010",
+    "injected": true,
+    "stage": 2,
+    "part": "A",
+    "point": null,
+    "root": "h2_front",
+    "offset": [
+      -1.8389400224478805,
+      -0.006787399409644714,
+      -0.78629099260302
+    ]
+  },
+  {
+    "sample_id": "test_00011",
+    "injected": true,
+    "stage": 3,
+    "part": "C",
+    "point": null,
+    "root": "h3_rear",
+    "offset": [
+      -1.6997850095897336,
+      0.20918112568251576,
+      -1.0329444214633356
+    ]
+  },
+  {
+    "sample_id": "test_00012",
+    "injected": true,
+    "stage": 1,
+    "part": "B",
+    "point": null,
+    "root": "h1_B",
+    "offset": [
+      1.707506174239893,
+      0.5682701614553718,
+      0.872634911364501
+    ]
+  },
+  {
+    "sample_id": "test_00013",
+    "injected": true,
+    "stage": 3,
+    "part": "C",
+    "point": null,
+    "root": "h3_rear",
+    "offset": [
+      -1.8857663244090774,
+      0.13732680788558296,
+      0.6519407316318215
+    ]
+  },
+  {
+    "sample_id": "test_00014",
+    "injected": false,
+    "stage": null,
+    "part": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00015",
+    "injected": true,
+    "stage": 2,
+    "part": "A",
+    "point": null,
+    "root": "h2_front",
+    "offset": [
+      -1.3401930410516387,
+      0.9766766954884587,
+      -1.1180273901861735
+    ]
+  },
+  {
+    "sample_id": "test_00016",
+    "injected": false,
+    "stage": null,
+    "part": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00017",
+    "injected": false,
+    "stage": null,
+    "part": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00018",
+    "injected": false,
+    "stage": null,
+    "part": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00019",
+    "injected": false,
+    "stage": null,
+    "part": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  }
+]

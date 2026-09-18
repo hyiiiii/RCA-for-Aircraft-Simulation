@@ -1,0 +1,326 @@
+[
+  {
+    "sample_id": "test_00000",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00001",
+    "injected": true,
+    "stage": 1,
+    "point": "C3",
+    "root": "s1_C3",
+    "offset": [
+      -0.4944951487423796,
+      1.069960266286976,
+      1.6157535630279003
+    ]
+  },
+  {
+    "sample_id": "test_00002",
+    "injected": true,
+    "stage": 2,
+    "point": "B2",
+    "root": "s2_B2",
+    "offset": [
+      -1.9062827293088906,
+      0.03432861346851787,
+      -0.604075907677153
+    ]
+  },
+  {
+    "sample_id": "test_00003",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00004",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00005",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00006",
+    "injected": true,
+    "stage": 3,
+    "point": "B3",
+    "root": "s3_B3",
+    "offset": [
+      -0.7809390384660829,
+      1.313499110735594,
+      -1.2902923328829299
+    ]
+  },
+  {
+    "sample_id": "test_00007",
+    "injected": true,
+    "stage": 3,
+    "point": "B1",
+    "root": "s3_B1",
+    "offset": [
+      -0.6374130219590138,
+      -0.9653325787423547,
+      1.6315139140858448
+    ]
+  },
+  {
+    "sample_id": "test_00008",
+    "injected": true,
+    "stage": 4,
+    "point": "A3",
+    "root": "s4_A3",
+    "offset": [
+      -1.7807449751510016,
+      -0.4737371358244477,
+      0.7775091379625757
+    ]
+  },
+  {
+    "sample_id": "test_00009",
+    "injected": true,
+    "stage": 1,
+    "point": "A2",
+    "root": "s1_A2",
+    "offset": [
+      0.1449195348266619,
+      0.16067434997578248,
+      -1.9882610698008156
+    ]
+  },
+  {
+    "sample_id": "test_00010",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00011",
+    "injected": true,
+    "stage": 4,
+    "point": "C1",
+    "root": "s4_C1",
+    "offset": [
+      0.11580499160351126,
+      0.5193109012379628,
+      -1.9279277454757284
+    ]
+  },
+  {
+    "sample_id": "test_00012",
+    "injected": true,
+    "stage": 3,
+    "point": "A1",
+    "root": "s3_A1",
+    "offset": [
+      1.334296120471184,
+      1.4866407118327922,
+      -0.09774076333258626
+    ]
+  },
+  {
+    "sample_id": "test_00013",
+    "injected": true,
+    "stage": 4,
+    "point": "B1",
+    "root": "s4_B1",
+    "offset": [
+      1.2852846024790066,
+      -1.1782145091432028,
+      0.9797214201367775
+    ]
+  },
+  {
+    "sample_id": "test_00014",
+    "injected": true,
+    "stage": 2,
+    "point": "A1",
+    "root": "s2_A1",
+    "offset": [
+      0.954653678912608,
+      -0.9396564437381503,
+      1.4851539048462272
+    ]
+  },
+  {
+    "sample_id": "test_00015",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00016",
+    "injected": true,
+    "stage": 4,
+    "point": "A1",
+    "root": "s4_A1",
+    "offset": [
+      0.5335016741075047,
+      0.9012800097770337,
+      -1.7038398714963798
+    ]
+  },
+  {
+    "sample_id": "test_00017",
+    "injected": true,
+    "stage": 3,
+    "point": "A2",
+    "root": "s3_A2",
+    "offset": [
+      -0.7577053654081526,
+      0.29897609259885266,
+      -1.8266077508009266
+    ]
+  },
+  {
+    "sample_id": "test_00018",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00019",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  },
+  {
+    "sample_id": "test_00020",
+    "injected": true,
+    "stage": 2,
+    "point": "B1",
+    "root": "s2_B1",
+    "offset": [
+      1.2165660909562137,
+      0.8189489157917303,
+      -1.3598858847929365
+    ]
+  },
+  {
+    "sample_id": "test_00021",
+    "injected": true,
+    "stage": 4,
+    "point": "B1",
+    "root": "s4_B1",
+    "offset": [
+      -0.9993818708839414,
+      -1.6989724284473275,
+      -0.3387160514712941
+    ]
+  },
+  {
+    "sample_id": "test_00022",
+    "injected": true,
+    "stage": 1,
+    "point": "C1",
+    "root": "s1_C1",
+    "offset": [
+      -1.287538758080319,
+      -1.2325608005730124,
+      0.9072143183018024
+    ]
+  },
+  {
+    "sample_id": "test_00023",
+    "injected": true,
+    "stage": 4,
+    "point": "B1",
+    "root": "s4_B1",
+    "offset": [
+      0.6335561555378344,
+      -1.7337057497423478,
+      0.7699811498279967
+    ]
+  },
+  {
+    "sample_id": "test_00024",
+    "injected": true,
+    "stage": 2,
+    "point": "B1",
+    "root": "s2_B1",
+    "offset": [
+      -0.7572610201516609,
+      1.8319059149311214,
+      -0.2658504583393387
+    ]
+  },
+  {
+    "sample_id": "test_00025",
+    "injected": true,
+    "stage": 4,
+    "point": "B1",
+    "root": "s4_B1",
+    "offset": [
+      1.8989396719070413,
+      0.1479350141612324,
+      0.6100355350655354
+    ]
+  },
+  {
+    "sample_id": "test_00026",
+    "injected": true,
+    "stage": 3,
+    "point": "B2",
+    "root": "s3_B2",
+    "offset": [
+      1.2314782941215534,
+      1.2965631355442486,
+      -0.8957595919972812
+    ]
+  },
+  {
+    "sample_id": "test_00027",
+    "injected": true,
+    "stage": 3,
+    "point": "A3",
+    "root": "s3_A3",
+    "offset": [
+      -0.5352470486720207,
+      -1.8207376866147036,
+      0.6312090568336526
+    ]
+  },
+  {
+    "sample_id": "test_00028",
+    "injected": true,
+    "stage": 3,
+    "point": "B1",
+    "root": "s3_B1",
+    "offset": [
+      1.251499151246194,
+      1.4649113068686275,
+      -0.5364557180592874
+    ]
+  },
+  {
+    "sample_id": "test_00029",
+    "injected": false,
+    "stage": null,
+    "point": null,
+    "root": null,
+    "offset": null
+  }
+]

@@ -1,0 +1,172 @@
+{
+  "dataset_dir": "/Users/hyi/aircraft-assembly-simulation/data/assembly_20260912_102448",
+  "graph_dir": "/Users/hyi/aircraft-assembly-simulation/graph/assembly_20260912_102448",
+  "metrics": {
+    "n_test": 100,
+    "n_injected": 50,
+    "n_healthy": 50,
+    "n_quality_defects": 6,
+    "n_detected_injected": 6,
+    "n_localized_candidates": 6,
+    "quality_detection_rate_on_injected": 0.12,
+    "healthy_quality_false_positive_rate": 0.0,
+    "diagnosis_coverage_on_detected": 1.0,
+    "root_top1_on_detected": 1.0,
+    "root_top3_on_detected": 1.0,
+    "root_top5_on_detected": 1.0,
+    "interpretation": "Quality exceeds a preset final tolerance; injected faults may be compensated. Root metrics condition on injected + final quality defect."
+  },
+  "example": {
+    "trace_method": "structural_innovation",
+    "observed_node": "s4_C3",
+    "predicted_root": "h4_final",
+    "ranked_roots": [
+      "h4_final",
+      "h2_front",
+      "h1_B",
+      "h1_A",
+      "h3_rear",
+      "h1_C"
+    ],
+    "scores": {
+      "h4_final": 24.028411784683385,
+      "h2_front": 2.6074279507035567,
+      "h1_B": 2.284753580519928,
+      "h1_A": 1.7237495177349829,
+      "h3_rear": 1.4695521344772062,
+      "h1_C": 1.3742361662844784
+    },
+    "ranking": [
+      {
+        "node": "h4_final",
+        "stage": 4,
+        "stage_name": "再调姿",
+        "point": "ABC",
+        "part": "ABC",
+        "score": 24.028411784683385,
+        "residual_mm": 0.6819468981543269,
+        "residual_xyz": [
+          -0.626263165062387,
+          -0.8865816899156679,
+          0.4607948206698356
+        ]
+      },
+      {
+        "node": "h2_front",
+        "stage": 2,
+        "stage_name": "前对合",
+        "point": "A",
+        "part": "A",
+        "score": 2.6074279507035567,
+        "residual_mm": 0.07394303203463402,
+        "residual_xyz": [
+          -0.03206341260465706,
+          0.09612338122253779,
+          -0.011496669098813564
+        ]
+      },
+      {
+        "node": "h1_B",
+        "stage": 1,
+        "stage_name": "首次调姿",
+        "point": "B",
+        "part": "B",
+        "score": 2.284753580519928,
+        "residual_mm": 0.049128877403222575,
+        "residual_xyz": [
+          -0.017583707917332173,
+          0.0025445100089029893,
+          -0.020990005395148614
+        ]
+      },
+      {
+        "node": "h1_A",
+        "stage": 1,
+        "stage_name": "首次调姿",
+        "point": "A",
+        "part": "A",
+        "score": 1.7237495177349829,
+        "residual_mm": 0.037783293747293695,
+        "residual_xyz": [
+          0.005079744886794894,
+          0.04537021359735623,
+          -0.018479781370643877
+        ]
+      },
+      {
+        "node": "h3_rear",
+        "stage": 3,
+        "stage_name": "后对合",
+        "point": "C",
+        "part": "C",
+        "score": 1.4695521344772062,
+        "residual_mm": 0.03568469308085946,
+        "residual_xyz": [
+          -0.026914973342816968,
+          -0.0264191385685848,
+          -0.007217857181667379
+        ]
+      },
+      {
+        "node": "h1_C",
+        "stage": 1,
+        "stage_name": "首次调姿",
+        "point": "C",
+        "part": "C",
+        "score": 1.3742361662844784,
+        "residual_mm": 0.03384303055448143,
+        "residual_xyz": [
+          0.018656072943069073,
+          -0.026501576932844273,
+          0.04016363180458408
+        ]
+      }
+    ],
+    "quality_defect": true,
+    "entry_quality_defect": true,
+    "defect_points": [
+      "A1",
+      "A2",
+      "A3",
+      "B1",
+      "B2",
+      "B3",
+      "C1",
+      "C2",
+      "C3"
+    ],
+    "final_errors_mm": {
+      "A1": 1.1523667263529356,
+      "A2": 1.1802717730899521,
+      "A3": 1.1178616720766743,
+      "B1": 1.206347194092249,
+      "B2": 1.1711066394182164,
+      "B3": 1.2184583046520607,
+      "C1": 1.1809362849787601,
+      "C2": 1.1793576428307873,
+      "C3": 1.218653805547631
+    },
+    "maximum_final_error_mm": 1.218653805547631,
+    "entry_error_mm": 1.218653805547631,
+    "quality_limit_mm": 1.0,
+    "score_threshold": 4.505776102280609,
+    "trace_status": "localized_candidate",
+    "candidate_policy": "executed rigid-body actions among terminal ancestors",
+    "path": [
+      "h4_final",
+      "s4_C3"
+    ],
+    "notes": "Candidate ranking under the specified feedback model; not proof of a unique physical cause.",
+    "sample_id": "test_00005"
+  },
+  "files": {
+    "observations": "/Users/hyi/aircraft-assembly-simulation/data/assembly_20260912_102448/observations.csv",
+    "graph": "/Users/hyi/aircraft-assembly-simulation/graph/assembly_20260912_102448/causal_graph.svg",
+    "traces": "/Users/hyi/aircraft-assembly-simulation/graph/assembly_20260912_102448/trace_results.json",
+    "results": "/Users/hyi/aircraft-assembly-simulation/graph/assembly_20260912_102448/results.csv",
+    "cad_preview": "/Users/hyi/aircraft-assembly-simulation/data/assembly_20260912_102448/cad_preview.html",
+    "cad_model": "/Users/hyi/aircraft-assembly-simulation/data/assembly_20260912_102448/cad/aircraft.FCStd",
+    "checkpoints": "/Users/hyi/aircraft-assembly-simulation/data/assembly_20260912_102448/checkpoints.csv",
+    "planned_transforms": "/Users/hyi/aircraft-assembly-simulation/data/assembly_20260912_102448/target_states.npz"
+  }
+}
